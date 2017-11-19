@@ -50,7 +50,6 @@
 <Entry OldName="ck6.Form1._Label6" NewName="ck6.Form1.c6353c8cd13680755d0038c2345512c12" />
 <Entry OldName="ck6.Form1._FlatButton3" NewName="ck6.Form1.cdb9dea618e5ccae3ae9b364a15b7e478" />
 <Entry OldName="ck6.Form1._FlatButton4" NewName="ck6.Form1.c0d36472864ccd354cd92294c2eaed081" />
-<Entry OldName="ck6.Form1._PictureBox2" NewName="ck6.Form1.c124252c95e4f990abd3d367a73986d8a" />
 <Entry OldName="ck6.Form1._Label7" NewName="ck6.Form1.cb34225be170f39ff1c5245b711620f3e" />
 <Entry OldName="ck6.Form1._TextBox1" NewName="ck6.Form1.cc745e0e5b83f64ce6806b20cac483f3b" />
 <Entry OldName="ck6.Form1._Label9" NewName="ck6.Form1.cdccfca0ad8e88105b2b162435b32263a" />
@@ -58,13 +57,13 @@
 <Entry OldName="ck6.Form1._TextBox2" NewName="ck6.Form1.cf88d337cbffa198ab1900e2f12d7a4d7" />
 <Entry OldName="ck6.Form1._Label8" NewName="ck6.Form1.c347a6420228b8d6f2f47c0d072ff7b16" />
 <Entry OldName="ck6.Form1._FlatButton5" NewName="ck6.Form1.cc8b0b83a82c637f9b03adac2e89314ae" />
-<Entry OldName="ck6.Form1._Label5" NewName="ck6.Form1.cb9249d90c8a9f197b375c28bceef8084" />
 <Entry OldName="ck6.Form1._Panel1" NewName="ck6.Form1.c9f3ad8ccfc101c6584803e1082631750" />
 <Entry OldName="ck6.Form1._status" NewName="ck6.Form1.cdea2afd339b703edba7c76761ee71af1" />
 <Entry OldName="ck6.Form1._killahwestsideniggah" NewName="ck6.Form1.c91906a85aadec4ebfcc439206829d20f" />
 <Entry OldName="ck6.Form1._Button1" NewName="ck6.Form1.c0e1c588e9bda889ba55d94e9eb61818f" />
 <Entry OldName="ck6.Form1._fun" NewName="ck6.Form1.ca6d58dfea741b62cb73b8be2f15d5340" />
 <Entry OldName="ck6.Form1._FlatButton6" NewName="ck6.Form1.c53cc8869b4e2a104a1f8be4c118148a9" />
+<Entry OldName="ck6.Form1._Panel2" NewName="ck6.Form1.ca19d1cabd5bb2e51a9bcf910c4b5c8ac" />
 <Entry OldName="ck6.Helpers.G" NewName="A.c5a902adcf30c6566421df3ef112b57e2.ce702a79e19ba69fb7fd4c46a8f79c91f" />
 <Entry OldName="ck6.Helpers.B" NewName="A.c5a902adcf30c6566421df3ef112b57e2.cc578a05687b72aaedb686faaa54c5f6f" />
 <Entry OldName="ck6.Helpers._FlatColor" NewName="A.c5a902adcf30c6566421df3ef112b57e2.ccc2c5be1fbc44a1a8e6b3fd0cc4821be" />
@@ -185,7 +184,7 @@
 <Entry OldName="ck6.FlatCheckBox._Options.Style1" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.c2de8d1fe50e0d01785de907e16dbf15c.c5158df96f3349fc214a8b9e485974f51" />
 <Entry OldName="ck6.FlatCheckBox._Options.Style2" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.c2de8d1fe50e0d01785de907e16dbf15c.c8dc4caacbfacc0c21f2075d88c378e35" />
 <Entry OldName="ck6.My.MyApplication..ctor()" NewName="A.cbced91ac13b76f0aa77ba05e2506f09d..ctor()" />
-<Entry OldName="ck6.My.MyApplication.Main(String[] Args)" NewName="A.cbced91ac13b76f0aa77ba05e2506f09d.c8660e04c66dda277dc7e07a125d431e2(String[] cc8338e04163386d2865188cf47daef95)" />
+<Entry OldName="ck6.My.MyApplication.Main(String[] Args)" NewName="A.cbced91ac13b76f0aa77ba05e2506f09d.c8660e04c66dda277dc7e07a125d431e2(String[] )" />
 <Entry OldName="ck6.My.MyApplication.OnCreateMainForm()" NewName="A.cbced91ac13b76f0aa77ba05e2506f09d.OnCreateMainForm()" />
 <Entry OldName="ck6.My.MyComputer..ctor()" NewName="A.cfedc1af7de79dbf47d503cfae2a9ee6f..ctor()" />
 <Entry OldName="ck6.My.MyProject..cctor()" NewName="A.c2ddff772711dc43910697e91860914b7..cctor()" />
@@ -201,28 +200,28 @@
 <Entry OldName="ck6.adv.InitializeComponent()" NewName="ck6.adv.c674116873b361d8db0fc01037c0ee522()" />
 <Entry OldName="ck6.adv.set_FormSkin1(FormSkin WithEventsValue)" NewName="ck6.adv.set_FormSkin1(c784d2eb6a42e5517d5406d2299c8fdb5 WithEventsValue)" />
 <Entry OldName="ck6.adv.set_FlatButton2(FlatButton WithEventsValue)" NewName="ck6.adv.set_FlatButton2(c6b838dfc379a297c7452e3adc2207a19 WithEventsValue)" />
-<Entry OldName="ck6.adv.adv_Load(Object sender, EventArgs e)" NewName="ck6.adv.c8c82defe73928d1eeac187eca7ac6538(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.adv.FlatButton2_Click(Object sender, EventArgs e)" NewName="ck6.adv.c61d6937a9c540e54978102fc35195cf1(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
+<Entry OldName="ck6.adv.adv_Load(Object sender, EventArgs e)" NewName="ck6.adv.c8c82defe73928d1eeac187eca7ac6538(Object , EventArgs )" />
+<Entry OldName="ck6.adv.FlatButton2_Click(Object sender, EventArgs e)" NewName="ck6.adv.c61d6937a9c540e54978102fc35195cf1(Object , EventArgs )" />
 <Entry OldName="ck6.Form1.autoscanclient()" NewName="ck6.Form1.c51bbaac778f5ac86d34695672e355d3a()" />
 <Entry OldName="ck6.Form1.refreshtext()" NewName="ck6.Form1.ce82f871139f1d76c72fa3310ef736f5e()" />
-<Entry OldName="ck6.Form1.fun_Tick(Object sender, EventArgs e)" NewName="ck6.Form1.c0fc60688865fd0deba90b612bc9c75dd(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
+<Entry OldName="ck6.Form1.fun_Tick(Object sender, EventArgs e)" NewName="ck6.Form1.c0fc60688865fd0deba90b612bc9c75dd(Object , EventArgs )" />
 <Entry OldName="ck6.Form1.manualimport()" NewName="ck6.Form1.c70377340fa6a7fe42eb3453f0bd07ca8()" />
 <Entry OldName="ck6.Form1.dumppidpath()" NewName="ck6.Form1.cb0fe7cdc038009b8330fba9486505313()" />
-<Entry OldName="ck6.Form1.killahwestsideniggah_Tick(Object sender, EventArgs e)" NewName="ck6.Form1.c9f1d9077e965efa6f1c1bc04c2d95733(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
+<Entry OldName="ck6.Form1.killahwestsideniggah_Tick(Object sender, EventArgs e)" NewName="ck6.Form1.c9f1d9077e965efa6f1c1bc04c2d95733(Object , EventArgs )" />
 <Entry OldName="ck6.Form1.resettarget()" NewName="ck6.Form1.c751ad4cf04e987b7d6699516d5a83aa3()" />
 <Entry OldName="ck6.Form1.stopscan()" NewName="ck6.Form1.c07495fe045006820b38ce84f065297b2()" />
-<Entry OldName="ck6.Form1.Form1_Load(Object sender, EventArgs e)" NewName="ck6.Form1.c9fa1c7052f036f0b22f90731bfa9f295(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.Form1.FlatClose1_Click(Object sender, EventArgs e)" NewName="ck6.Form1.ca71cd2ac402e3e75f5e1778ceffd8510(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.Form1.Label6_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c9a6b0fd3223f300a41a6c737feb9f833(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.Form1.FlatButton1_Click(Object sender, EventArgs e)" NewName="ck6.Form1.ca36ec91175105a4647b93d25e6996f2a(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.Form1.FlatButton2_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c61d6937a9c540e54978102fc35195cf1(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
+<Entry OldName="ck6.Form1.Form1_Load(Object sender, EventArgs e)" NewName="ck6.Form1.c9fa1c7052f036f0b22f90731bfa9f295(Object , EventArgs )" />
+<Entry OldName="ck6.Form1.FlatClose1_Click(Object sender, EventArgs e)" NewName="ck6.Form1.ca71cd2ac402e3e75f5e1778ceffd8510(Object , EventArgs )" />
+<Entry OldName="ck6.Form1.Label6_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c9a6b0fd3223f300a41a6c737feb9f833(Object , EventArgs )" />
+<Entry OldName="ck6.Form1.FlatButton1_Click(Object sender, EventArgs e)" NewName="ck6.Form1.ca36ec91175105a4647b93d25e6996f2a(Object , EventArgs )" />
+<Entry OldName="ck6.Form1.FlatButton2_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c61d6937a9c540e54978102fc35195cf1(Object , EventArgs )" />
 <Entry OldName="ck6.Form1.startscan()" NewName="ck6.Form1.c5a4afa3b49f971450abf2f4091b71bb9()" />
-<Entry OldName="ck6.Form1.FlatButton4_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c62d6729e8d798f3af09a41bc52185216(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.Form1.PictureBox2_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c80c9c449f1001ecfa974f1caad8dff75(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.Form1.FlatButton3_Click(Object sender, EventArgs e)" NewName="ck6.Form1.cb05a9bd8eb2671f257077af3f834f59e(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.Form1.FlatButton5_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c6b939d13da59cb97ef027b8c1e8c31da(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.Form1.Button1_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c2bbdd08250b5aa7a80ffd5f24fcbfee8(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.Form1.FlatButton6_Click(Object sender, EventArgs e)" NewName="ck6.Form1.cc571917cba4628ea1c35e923658171bd(Object c5ca2720a208053a1f1e40f22710febc0, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
+<Entry OldName="ck6.Form1.FlatButton4_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c62d6729e8d798f3af09a41bc52185216(Object , EventArgs )" />
+<Entry OldName="ck6.Form1.PictureBox2_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c80c9c449f1001ecfa974f1caad8dff75(Object , EventArgs )" />
+<Entry OldName="ck6.Form1.FlatButton3_Click(Object sender, EventArgs e)" NewName="ck6.Form1.cb05a9bd8eb2671f257077af3f834f59e(Object , EventArgs )" />
+<Entry OldName="ck6.Form1.FlatButton5_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c6b939d13da59cb97ef027b8c1e8c31da(Object , EventArgs )" />
+<Entry OldName="ck6.Form1.Button1_Click(Object sender, EventArgs e)" NewName="ck6.Form1.c2bbdd08250b5aa7a80ffd5f24fcbfee8(Object , EventArgs )" />
+<Entry OldName="ck6.Form1.FlatButton6_Click(Object sender, EventArgs e)" NewName="ck6.Form1.cc571917cba4628ea1c35e923658171bd(Object , EventArgs )" />
 <Entry OldName="ck6.Form1.InitializeComponent()" NewName="ck6.Form1.c674116873b361d8db0fc01037c0ee522()" />
 <Entry OldName="ck6.Form1.set_FormSkin1(FormSkin WithEventsValue)" NewName="ck6.Form1.set_FormSkin1(c784d2eb6a42e5517d5406d2299c8fdb5 WithEventsValue)" />
 <Entry OldName="ck6.Form1.set_FlatClose1(FlatClose WithEventsValue)" NewName="ck6.Form1.set_FlatClose1(cd59ff5ef97bb48adfb98447255d1732b WithEventsValue)" />
@@ -233,21 +232,21 @@
 <Entry OldName="ck6.Form1.set_FlatButton5(FlatButton WithEventsValue)" NewName="ck6.Form1.set_FlatButton5(c6b838dfc379a297c7452e3adc2207a19 WithEventsValue)" />
 <Entry OldName="ck6.Form1.set_FlatButton6(FlatButton WithEventsValue)" NewName="ck6.Form1.set_FlatButton6(c6b838dfc379a297c7452e3adc2207a19 WithEventsValue)" />
 <Entry OldName="ck6.Helpers..cctor()" NewName="A.c5a902adcf30c6566421df3ef112b57e2..cctor()" />
-<Entry OldName="ck6.Helpers.RoundRec(Rectangle Rectangle, Int32 Curve)" NewName="A.c5a902adcf30c6566421df3ef112b57e2.c2eefed6f8e1f7c9eafe864bf618f42fc(Rectangle c5d3e54c198c90e2273690a26e2c68d1e, Int32 ceed23e954f65e0a692e08b4b9d55fc44)" />
-<Entry OldName="ck6.Helpers.DrawArrow(Int32 x, Int32 y, Boolean flip)" NewName="A.c5a902adcf30c6566421df3ef112b57e2.ce49a9bf80d4badb614273c0d5ea659f3(Int32 ce9ab99e6781d1e7e15d7b9af3e91a443, Int32 c90754da3e6eaec11ec075d29837aedff, Boolean c76ed2d4fb2571c48674a17e22cafcd9d)" />
+<Entry OldName="ck6.Helpers.RoundRec(Rectangle Rectangle, Int32 Curve)" NewName="A.c5a902adcf30c6566421df3ef112b57e2.c2eefed6f8e1f7c9eafe864bf618f42fc(Rectangle , Int32 )" />
+<Entry OldName="ck6.Helpers.DrawArrow(Int32 x, Int32 y, Boolean flip)" NewName="A.c5a902adcf30c6566421df3ef112b57e2.ce49a9bf80d4badb614273c0d5ea659f3(Int32 , Int32 , Boolean )" />
 <Entry OldName="ck6.FormSkin..ctor()" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5..ctor()" />
 <Entry OldName="ck6.FormSkin.get_HeaderColor()" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.get_c0d7006c0d1c7ec1a47070007759a1c36()" />
-<Entry OldName="ck6.FormSkin.set_HeaderColor(Color value)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.set_c0d7006c0d1c7ec1a47070007759a1c36(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FormSkin.set_HeaderColor(Color value)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.set_c0d7006c0d1c7ec1a47070007759a1c36(Color )" />
 <Entry OldName="ck6.FormSkin.get_BaseColor()" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.get_ca6ebc4b838caab7c8888bc475c7d1bb6()" />
-<Entry OldName="ck6.FormSkin.set_BaseColor(Color value)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FormSkin.set_BaseColor(Color value)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color )" />
 <Entry OldName="ck6.FormSkin.get_BorderColor()" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.get_c19d1eaff65a6a386a185fdae470d6cfa()" />
-<Entry OldName="ck6.FormSkin.set_BorderColor(Color value)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.set_c19d1eaff65a6a386a185fdae470d6cfa(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FormSkin.set_BorderColor(Color value)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.set_c19d1eaff65a6a386a185fdae470d6cfa(Color )" />
 <Entry OldName="ck6.FormSkin.get_FlatColor()" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.get_c59e7bde16a16fbfeb4719f6c52cdb6af()" />
-<Entry OldName="ck6.FormSkin.set_FlatColor(Color value)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.set_c59e7bde16a16fbfeb4719f6c52cdb6af(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FormSkin.set_FlatColor(Color value)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.set_c59e7bde16a16fbfeb4719f6c52cdb6af(Color )" />
 <Entry OldName="ck6.FormSkin.get_HeaderMaximize()" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.get_cdaa28f542dbc9c2128877c7bbd70aab8()" />
-<Entry OldName="ck6.FormSkin.set_HeaderMaximize(Boolean value)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.set_cdaa28f542dbc9c2128877c7bbd70aab8(Boolean c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FormSkin.set_HeaderMaximize(Boolean value)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.set_cdaa28f542dbc9c2128877c7bbd70aab8(Boolean )" />
 <Entry OldName="ck6.FormSkin.OnMouseDown(MouseEventArgs e)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.OnMouseDown(MouseEventArgs e)" />
-<Entry OldName="ck6.FormSkin.FormSkin_MouseDoubleClick(Object sender, MouseEventArgs e)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.c207905dd154d994573358bb70e273ffe(Object c5ca2720a208053a1f1e40f22710febc0, MouseEventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
+<Entry OldName="ck6.FormSkin.FormSkin_MouseDoubleClick(Object sender, MouseEventArgs e)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.c207905dd154d994573358bb70e273ffe(Object , MouseEventArgs )" />
 <Entry OldName="ck6.FormSkin.OnMouseUp(MouseEventArgs e)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.OnMouseUp(MouseEventArgs e)" />
 <Entry OldName="ck6.FormSkin.OnMouseMove(MouseEventArgs e)" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.OnMouseMove(MouseEventArgs e)" />
 <Entry OldName="ck6.FormSkin.OnCreateControl()" NewName="A.c784d2eb6a42e5517d5406d2299c8fdb5.OnCreateControl()" />
@@ -261,9 +260,9 @@
 <Entry OldName="ck6.FlatClose.OnClick(EventArgs e)" NewName="A.cd59ff5ef97bb48adfb98447255d1732b.OnClick(EventArgs e)" />
 <Entry OldName="ck6.FlatClose.OnResize(EventArgs e)" NewName="A.cd59ff5ef97bb48adfb98447255d1732b.OnResize(EventArgs e)" />
 <Entry OldName="ck6.FlatClose.get_BaseColor()" NewName="A.cd59ff5ef97bb48adfb98447255d1732b.get_ca6ebc4b838caab7c8888bc475c7d1bb6()" />
-<Entry OldName="ck6.FlatClose.set_BaseColor(Color value)" NewName="A.cd59ff5ef97bb48adfb98447255d1732b.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatClose.set_BaseColor(Color value)" NewName="A.cd59ff5ef97bb48adfb98447255d1732b.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color )" />
 <Entry OldName="ck6.FlatClose.get_TextColor()" NewName="A.cd59ff5ef97bb48adfb98447255d1732b.get_c7c736a7b23b34162ab44f9b3f6cd2b5b()" />
-<Entry OldName="ck6.FlatClose.set_TextColor(Color value)" NewName="A.cd59ff5ef97bb48adfb98447255d1732b.set_c7c736a7b23b34162ab44f9b3f6cd2b5b(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatClose.set_TextColor(Color value)" NewName="A.cd59ff5ef97bb48adfb98447255d1732b.set_c7c736a7b23b34162ab44f9b3f6cd2b5b(Color )" />
 <Entry OldName="ck6.FlatClose.OnPaint(PaintEventArgs e)" NewName="A.cd59ff5ef97bb48adfb98447255d1732b.OnPaint(PaintEventArgs e)" />
 <Entry OldName="ck6.FlatMax..ctor()" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108..ctor()" />
 <Entry OldName="ck6.FlatMax.OnMouseEnter(EventArgs e)" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108.OnMouseEnter(EventArgs e)" />
@@ -274,9 +273,9 @@
 <Entry OldName="ck6.FlatMax.OnClick(EventArgs e)" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108.OnClick(EventArgs e)" />
 <Entry OldName="ck6.FlatMax.OnResize(EventArgs e)" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108.OnResize(EventArgs e)" />
 <Entry OldName="ck6.FlatMax.get_BaseColor()" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108.get_ca6ebc4b838caab7c8888bc475c7d1bb6()" />
-<Entry OldName="ck6.FlatMax.set_BaseColor(Color value)" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatMax.set_BaseColor(Color value)" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color )" />
 <Entry OldName="ck6.FlatMax.get_TextColor()" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108.get_c7c736a7b23b34162ab44f9b3f6cd2b5b()" />
-<Entry OldName="ck6.FlatMax.set_TextColor(Color value)" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108.set_c7c736a7b23b34162ab44f9b3f6cd2b5b(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatMax.set_TextColor(Color value)" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108.set_c7c736a7b23b34162ab44f9b3f6cd2b5b(Color )" />
 <Entry OldName="ck6.FlatMax.OnPaint(PaintEventArgs e)" NewName="A.cf4d8b2fc293e9bc851ae840fd7f53108.OnPaint(PaintEventArgs e)" />
 <Entry OldName="ck6.FlatMini..ctor()" NewName="A.cf2742f11dc6034bc86e3d64b00697655..ctor()" />
 <Entry OldName="ck6.FlatMini.OnMouseEnter(EventArgs e)" NewName="A.cf2742f11dc6034bc86e3d64b00697655.OnMouseEnter(EventArgs e)" />
@@ -287,56 +286,56 @@
 <Entry OldName="ck6.FlatMini.OnClick(EventArgs e)" NewName="A.cf2742f11dc6034bc86e3d64b00697655.OnClick(EventArgs e)" />
 <Entry OldName="ck6.FlatMini.OnResize(EventArgs e)" NewName="A.cf2742f11dc6034bc86e3d64b00697655.OnResize(EventArgs e)" />
 <Entry OldName="ck6.FlatMini.get_BaseColor()" NewName="A.cf2742f11dc6034bc86e3d64b00697655.get_ca6ebc4b838caab7c8888bc475c7d1bb6()" />
-<Entry OldName="ck6.FlatMini.set_BaseColor(Color value)" NewName="A.cf2742f11dc6034bc86e3d64b00697655.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatMini.set_BaseColor(Color value)" NewName="A.cf2742f11dc6034bc86e3d64b00697655.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color )" />
 <Entry OldName="ck6.FlatMini.get_TextColor()" NewName="A.cf2742f11dc6034bc86e3d64b00697655.get_c7c736a7b23b34162ab44f9b3f6cd2b5b()" />
-<Entry OldName="ck6.FlatMini.set_TextColor(Color value)" NewName="A.cf2742f11dc6034bc86e3d64b00697655.set_c7c736a7b23b34162ab44f9b3f6cd2b5b(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatMini.set_TextColor(Color value)" NewName="A.cf2742f11dc6034bc86e3d64b00697655.set_c7c736a7b23b34162ab44f9b3f6cd2b5b(Color )" />
 <Entry OldName="ck6.FlatMini.OnPaint(PaintEventArgs e)" NewName="A.cf2742f11dc6034bc86e3d64b00697655.OnPaint(PaintEventArgs e)" />
 <Entry OldName="ck6.FlatColorPalette..ctor()" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb..ctor()" />
 <Entry OldName="ck6.FlatColorPalette.OnResize(EventArgs e)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.OnResize(EventArgs e)" />
 <Entry OldName="ck6.FlatColorPalette.get_Red()" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.get_c5d8e7b0c23f64859c74b6b9fb4d28f3b()" />
-<Entry OldName="ck6.FlatColorPalette.set_Red(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c5d8e7b0c23f64859c74b6b9fb4d28f3b(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatColorPalette.set_Red(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c5d8e7b0c23f64859c74b6b9fb4d28f3b(Color )" />
 <Entry OldName="ck6.FlatColorPalette.get_Cyan()" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.get_c07194d86cb6ad666ee3ec64d077fde3b()" />
-<Entry OldName="ck6.FlatColorPalette.set_Cyan(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c07194d86cb6ad666ee3ec64d077fde3b(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatColorPalette.set_Cyan(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c07194d86cb6ad666ee3ec64d077fde3b(Color )" />
 <Entry OldName="ck6.FlatColorPalette.get_Blue()" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.get_c0e18d67d05781b966afbdf6eb3fdae96()" />
-<Entry OldName="ck6.FlatColorPalette.set_Blue(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c0e18d67d05781b966afbdf6eb3fdae96(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatColorPalette.set_Blue(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c0e18d67d05781b966afbdf6eb3fdae96(Color )" />
 <Entry OldName="ck6.FlatColorPalette.get_LimeGreen()" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.get_cf22e3aefc95957e7c3032a2c4bb9c29e()" />
-<Entry OldName="ck6.FlatColorPalette.set_LimeGreen(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_cf22e3aefc95957e7c3032a2c4bb9c29e(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatColorPalette.set_LimeGreen(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_cf22e3aefc95957e7c3032a2c4bb9c29e(Color )" />
 <Entry OldName="ck6.FlatColorPalette.get_Orange()" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.get_cb0db6c35f89ca268cbc7650ab5f68281()" />
-<Entry OldName="ck6.FlatColorPalette.set_Orange(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_cb0db6c35f89ca268cbc7650ab5f68281(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatColorPalette.set_Orange(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_cb0db6c35f89ca268cbc7650ab5f68281(Color )" />
 <Entry OldName="ck6.FlatColorPalette.get_Purple()" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.get_c562029a83636f7f05eff923a53b36224()" />
-<Entry OldName="ck6.FlatColorPalette.set_Purple(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c562029a83636f7f05eff923a53b36224(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatColorPalette.set_Purple(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c562029a83636f7f05eff923a53b36224(Color )" />
 <Entry OldName="ck6.FlatColorPalette.get_Black()" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.get_cc04592cfd2a09cca756af45332ed3de3()" />
-<Entry OldName="ck6.FlatColorPalette.set_Black(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_cc04592cfd2a09cca756af45332ed3de3(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatColorPalette.set_Black(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_cc04592cfd2a09cca756af45332ed3de3(Color )" />
 <Entry OldName="ck6.FlatColorPalette.get_Gray()" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.get_c6d0891919980a741599bc1c44f8b6cd7()" />
-<Entry OldName="ck6.FlatColorPalette.set_Gray(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c6d0891919980a741599bc1c44f8b6cd7(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatColorPalette.set_Gray(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c6d0891919980a741599bc1c44f8b6cd7(Color )" />
 <Entry OldName="ck6.FlatColorPalette.get_White()" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.get_c351af5f85d8ec35b65ae228d84e32b14()" />
-<Entry OldName="ck6.FlatColorPalette.set_White(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c351af5f85d8ec35b65ae228d84e32b14(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatColorPalette.set_White(Color value)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.set_c351af5f85d8ec35b65ae228d84e32b14(Color )" />
 <Entry OldName="ck6.FlatColorPalette.OnPaint(PaintEventArgs e)" NewName="A.c353b8f9a74c3477913f3673a57fd1fdb.OnPaint(PaintEventArgs e)" />
 <Entry OldName="ck6.FlatGroupBox..ctor()" NewName="A.ce5a2f74d54b865c8431c01d7815ae594..ctor()" />
 <Entry OldName="ck6.FlatGroupBox.get_BaseColor()" NewName="A.ce5a2f74d54b865c8431c01d7815ae594.get_ca6ebc4b838caab7c8888bc475c7d1bb6()" />
-<Entry OldName="ck6.FlatGroupBox.set_BaseColor(Color value)" NewName="A.ce5a2f74d54b865c8431c01d7815ae594.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatGroupBox.set_BaseColor(Color value)" NewName="A.ce5a2f74d54b865c8431c01d7815ae594.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color )" />
 <Entry OldName="ck6.FlatGroupBox.get_ShowText()" NewName="A.ce5a2f74d54b865c8431c01d7815ae594.get_c547eb9f794b2c83062dd4b05b69515a5()" />
-<Entry OldName="ck6.FlatGroupBox.set_ShowText(Boolean value)" NewName="A.ce5a2f74d54b865c8431c01d7815ae594.set_c547eb9f794b2c83062dd4b05b69515a5(Boolean c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatGroupBox.set_ShowText(Boolean value)" NewName="A.ce5a2f74d54b865c8431c01d7815ae594.set_c547eb9f794b2c83062dd4b05b69515a5(Boolean )" />
 <Entry OldName="ck6.FlatGroupBox.OnPaint(PaintEventArgs e)" NewName="A.ce5a2f74d54b865c8431c01d7815ae594.OnPaint(PaintEventArgs e)" />
 <Entry OldName="ck6.FlatButton..ctor()" NewName="A.c6b838dfc379a297c7452e3adc2207a19..ctor()" />
 <Entry OldName="ck6.FlatButton.get_BaseColor()" NewName="A.c6b838dfc379a297c7452e3adc2207a19.get_ca6ebc4b838caab7c8888bc475c7d1bb6()" />
-<Entry OldName="ck6.FlatButton.set_BaseColor(Color value)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatButton.set_BaseColor(Color value)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color )" />
 <Entry OldName="ck6.FlatButton.get_TextColor()" NewName="A.c6b838dfc379a297c7452e3adc2207a19.get_c7c736a7b23b34162ab44f9b3f6cd2b5b()" />
-<Entry OldName="ck6.FlatButton.set_TextColor(Color value)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.set_c7c736a7b23b34162ab44f9b3f6cd2b5b(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatButton.set_TextColor(Color value)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.set_c7c736a7b23b34162ab44f9b3f6cd2b5b(Color )" />
 <Entry OldName="ck6.FlatButton.get_Rounded()" NewName="A.c6b838dfc379a297c7452e3adc2207a19.get_cd63541bb5726dfb3926184728bd3a4f8()" />
-<Entry OldName="ck6.FlatButton.set_Rounded(Boolean value)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.set_cd63541bb5726dfb3926184728bd3a4f8(Boolean c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatButton.set_Rounded(Boolean value)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.set_cd63541bb5726dfb3926184728bd3a4f8(Boolean )" />
 <Entry OldName="ck6.FlatButton.OnMouseDown(MouseEventArgs e)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.OnMouseDown(MouseEventArgs e)" />
 <Entry OldName="ck6.FlatButton.OnMouseUp(MouseEventArgs e)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.OnMouseUp(MouseEventArgs e)" />
 <Entry OldName="ck6.FlatButton.OnMouseEnter(EventArgs e)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.OnMouseEnter(EventArgs e)" />
 <Entry OldName="ck6.FlatButton.OnMouseLeave(EventArgs e)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.OnMouseLeave(EventArgs e)" />
 <Entry OldName="ck6.FlatButton.OnPaint(PaintEventArgs e)" NewName="A.c6b838dfc379a297c7452e3adc2207a19.OnPaint(PaintEventArgs e)" />
 <Entry OldName="ck6.FlatToggle..ctor()" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4..ctor()" />
-<Entry OldName="ck6.FlatToggle.add_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.add_cc1820d9dbc27567d57b769e5dec7dcb8(cc9d3451c848198d149f497563088f3c2 c1f95a594158a13ddd4c511ba18e52adb)" />
-<Entry OldName="ck6.FlatToggle.remove_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.remove_cc1820d9dbc27567d57b769e5dec7dcb8(cc9d3451c848198d149f497563088f3c2 c1f95a594158a13ddd4c511ba18e52adb)" />
+<Entry OldName="ck6.FlatToggle.add_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.add_cc1820d9dbc27567d57b769e5dec7dcb8(cc9d3451c848198d149f497563088f3c2 )" />
+<Entry OldName="ck6.FlatToggle.remove_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.remove_cc1820d9dbc27567d57b769e5dec7dcb8(cc9d3451c848198d149f497563088f3c2 )" />
 <Entry OldName="ck6.FlatToggle.get_Options()" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.get_cb8ef9caf7f06c69adcd2c504f3bfb36a()" />
-<Entry OldName="ck6.FlatToggle.set_Options(_Options value)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.set_cb8ef9caf7f06c69adcd2c504f3bfb36a(c32d59b106ac98862a4abdbb7d883680f c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatToggle.set_Options(_Options value)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.set_cb8ef9caf7f06c69adcd2c504f3bfb36a(c32d59b106ac98862a4abdbb7d883680f )" />
 <Entry OldName="ck6.FlatToggle.get_Checked()" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.get_cfcb61ffc56163fdefeb8b5ecaaa187d9()" />
-<Entry OldName="ck6.FlatToggle.set_Checked(Boolean value)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.set_cfcb61ffc56163fdefeb8b5ecaaa187d9(Boolean c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatToggle.set_Checked(Boolean value)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.set_cfcb61ffc56163fdefeb8b5ecaaa187d9(Boolean )" />
 <Entry OldName="ck6.FlatToggle.OnTextChanged(EventArgs e)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.OnTextChanged(EventArgs e)" />
 <Entry OldName="ck6.FlatToggle.OnResize(EventArgs e)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.OnResize(EventArgs e)" />
 <Entry OldName="ck6.FlatToggle.OnMouseEnter(EventArgs e)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.OnMouseEnter(EventArgs e)" />
@@ -346,20 +345,20 @@
 <Entry OldName="ck6.FlatToggle.OnClick(EventArgs e)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.OnClick(EventArgs e)" />
 <Entry OldName="ck6.FlatToggle.OnPaint(PaintEventArgs e)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.OnPaint(PaintEventArgs e)" />
 <Entry OldName="ck6.FlatRadioButton..ctor()" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025..ctor()" />
-<Entry OldName="ck6.FlatRadioButton.add_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.add_cc1820d9dbc27567d57b769e5dec7dcb8(cc5f605f080a8f8f1b3fbd0782ead1d94 c1f95a594158a13ddd4c511ba18e52adb)" />
-<Entry OldName="ck6.FlatRadioButton.remove_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.remove_cc1820d9dbc27567d57b769e5dec7dcb8(cc5f605f080a8f8f1b3fbd0782ead1d94 c1f95a594158a13ddd4c511ba18e52adb)" />
+<Entry OldName="ck6.FlatRadioButton.add_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.add_cc1820d9dbc27567d57b769e5dec7dcb8(cc5f605f080a8f8f1b3fbd0782ead1d94 )" />
+<Entry OldName="ck6.FlatRadioButton.remove_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.remove_cc1820d9dbc27567d57b769e5dec7dcb8(cc5f605f080a8f8f1b3fbd0782ead1d94 )" />
 <Entry OldName="ck6.FlatRadioButton.get_Checked()" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.get_cfcb61ffc56163fdefeb8b5ecaaa187d9()" />
-<Entry OldName="ck6.FlatRadioButton.set_Checked(Boolean value)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.set_cfcb61ffc56163fdefeb8b5ecaaa187d9(Boolean c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatRadioButton.set_Checked(Boolean value)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.set_cfcb61ffc56163fdefeb8b5ecaaa187d9(Boolean )" />
 <Entry OldName="ck6.FlatRadioButton.OnClick(EventArgs e)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.OnClick(EventArgs e)" />
 <Entry OldName="ck6.FlatRadioButton.InvalidateControls()" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.c71c8dc0d4a06e939a33caeb28e0fa905()" />
 <Entry OldName="ck6.FlatRadioButton.OnCreateControl()" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.OnCreateControl()" />
 <Entry OldName="ck6.FlatRadioButton.get_Options()" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.get_cb8ef9caf7f06c69adcd2c504f3bfb36a()" />
-<Entry OldName="ck6.FlatRadioButton.set_Options(_Options value)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.set_cb8ef9caf7f06c69adcd2c504f3bfb36a(c40cfaec2ae0b29d83d493aa2a99dd5a0 c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatRadioButton.set_Options(_Options value)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.set_cb8ef9caf7f06c69adcd2c504f3bfb36a(c40cfaec2ae0b29d83d493aa2a99dd5a0 )" />
 <Entry OldName="ck6.FlatRadioButton.OnResize(EventArgs e)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.OnResize(EventArgs e)" />
 <Entry OldName="ck6.FlatRadioButton.get_BaseColor()" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.get_ca6ebc4b838caab7c8888bc475c7d1bb6()" />
-<Entry OldName="ck6.FlatRadioButton.set_BaseColor(Color value)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatRadioButton.set_BaseColor(Color value)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color )" />
 <Entry OldName="ck6.FlatRadioButton.get_BorderColor()" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.get_c19d1eaff65a6a386a185fdae470d6cfa()" />
-<Entry OldName="ck6.FlatRadioButton.set_BorderColor(Color value)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.set_c19d1eaff65a6a386a185fdae470d6cfa(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatRadioButton.set_BorderColor(Color value)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.set_c19d1eaff65a6a386a185fdae470d6cfa(Color )" />
 <Entry OldName="ck6.FlatRadioButton.OnMouseDown(MouseEventArgs e)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.OnMouseDown(MouseEventArgs e)" />
 <Entry OldName="ck6.FlatRadioButton.OnMouseUp(MouseEventArgs e)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.OnMouseUp(MouseEventArgs e)" />
 <Entry OldName="ck6.FlatRadioButton.OnMouseEnter(EventArgs e)" NewName="A.c6bf8f5e388c5a35c98e87f7032f48025.OnMouseEnter(EventArgs e)" />
@@ -368,17 +367,17 @@
 <Entry OldName="ck6.FlatCheckBox..ctor()" NewName="A.cf72055b9e18e1db3aa67b2bbae334563..ctor()" />
 <Entry OldName="ck6.FlatCheckBox.OnTextChanged(EventArgs e)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.OnTextChanged(EventArgs e)" />
 <Entry OldName="ck6.FlatCheckBox.get_Checked()" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.get_cfcb61ffc56163fdefeb8b5ecaaa187d9()" />
-<Entry OldName="ck6.FlatCheckBox.set_Checked(Boolean value)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.set_cfcb61ffc56163fdefeb8b5ecaaa187d9(Boolean c62ddedf14bf66d680f886c33aac4d044)" />
-<Entry OldName="ck6.FlatCheckBox.add_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.add_cc1820d9dbc27567d57b769e5dec7dcb8(c77cc77e89c66faf8d988e95fdec94391 c1f95a594158a13ddd4c511ba18e52adb)" />
-<Entry OldName="ck6.FlatCheckBox.remove_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.remove_cc1820d9dbc27567d57b769e5dec7dcb8(c77cc77e89c66faf8d988e95fdec94391 c1f95a594158a13ddd4c511ba18e52adb)" />
+<Entry OldName="ck6.FlatCheckBox.set_Checked(Boolean value)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.set_cfcb61ffc56163fdefeb8b5ecaaa187d9(Boolean )" />
+<Entry OldName="ck6.FlatCheckBox.add_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.add_cc1820d9dbc27567d57b769e5dec7dcb8(c77cc77e89c66faf8d988e95fdec94391 )" />
+<Entry OldName="ck6.FlatCheckBox.remove_CheckedChanged(CheckedChangedEventHandler obj)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.remove_cc1820d9dbc27567d57b769e5dec7dcb8(c77cc77e89c66faf8d988e95fdec94391 )" />
 <Entry OldName="ck6.FlatCheckBox.OnClick(EventArgs e)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.OnClick(EventArgs e)" />
 <Entry OldName="ck6.FlatCheckBox.get_Options()" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.get_cb8ef9caf7f06c69adcd2c504f3bfb36a()" />
-<Entry OldName="ck6.FlatCheckBox.set_Options(_Options value)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.set_cb8ef9caf7f06c69adcd2c504f3bfb36a(c2de8d1fe50e0d01785de907e16dbf15c c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatCheckBox.set_Options(_Options value)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.set_cb8ef9caf7f06c69adcd2c504f3bfb36a(c2de8d1fe50e0d01785de907e16dbf15c )" />
 <Entry OldName="ck6.FlatCheckBox.OnResize(EventArgs e)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.OnResize(EventArgs e)" />
 <Entry OldName="ck6.FlatCheckBox.get_BaseColor()" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.get_ca6ebc4b838caab7c8888bc475c7d1bb6()" />
-<Entry OldName="ck6.FlatCheckBox.set_BaseColor(Color value)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatCheckBox.set_BaseColor(Color value)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.set_ca6ebc4b838caab7c8888bc475c7d1bb6(Color )" />
 <Entry OldName="ck6.FlatCheckBox.get_BorderColor()" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.get_c19d1eaff65a6a386a185fdae470d6cfa()" />
-<Entry OldName="ck6.FlatCheckBox.set_BorderColor(Color value)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.set_c19d1eaff65a6a386a185fdae470d6cfa(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatCheckBox.set_BorderColor(Color value)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.set_c19d1eaff65a6a386a185fdae470d6cfa(Color )" />
 <Entry OldName="ck6.FlatCheckBox.OnMouseDown(MouseEventArgs e)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.OnMouseDown(MouseEventArgs e)" />
 <Entry OldName="ck6.FlatCheckBox.OnMouseUp(MouseEventArgs e)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.OnMouseUp(MouseEventArgs e)" />
 <Entry OldName="ck6.FlatCheckBox.OnMouseEnter(EventArgs e)" NewName="A.cf72055b9e18e1db3aa67b2bbae334563.OnMouseEnter(EventArgs e)" />
@@ -388,25 +387,25 @@
 <Entry OldName="ck6.FlatTextBox.get_TB()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.get_TB()" />
 <Entry OldName="ck6.FlatTextBox.set_TB(TextBox WithEventsValue)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_TB(TextBox WithEventsValue)" />
 <Entry OldName="ck6.FlatTextBox.get_TextAlign()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.get_c4eea5aaf59b978acc3520554834cb68f()" />
-<Entry OldName="ck6.FlatTextBox.set_TextAlign(HorizontalAlignment value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c4eea5aaf59b978acc3520554834cb68f(HorizontalAlignment c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatTextBox.set_TextAlign(HorizontalAlignment value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c4eea5aaf59b978acc3520554834cb68f(HorizontalAlignment )" />
 <Entry OldName="ck6.FlatTextBox.get_MaxLength()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.get_c8e0fb5ff0ab4e9f0ab843e798fb7c2ce()" />
-<Entry OldName="ck6.FlatTextBox.set_MaxLength(Int32 value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c8e0fb5ff0ab4e9f0ab843e798fb7c2ce(Int32 c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatTextBox.set_MaxLength(Int32 value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c8e0fb5ff0ab4e9f0ab843e798fb7c2ce(Int32 )" />
 <Entry OldName="ck6.FlatTextBox.get_ReadOnly()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.get_c43e5055bb5ac68c2ef54ef61095e3135()" />
-<Entry OldName="ck6.FlatTextBox.set_ReadOnly(Boolean value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c43e5055bb5ac68c2ef54ef61095e3135(Boolean c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatTextBox.set_ReadOnly(Boolean value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c43e5055bb5ac68c2ef54ef61095e3135(Boolean )" />
 <Entry OldName="ck6.FlatTextBox.get_UseSystemPasswordChar()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.get_c5d04379b064d15878abe0b5a6e1fe60a()" />
-<Entry OldName="ck6.FlatTextBox.set_UseSystemPasswordChar(Boolean value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c5d04379b064d15878abe0b5a6e1fe60a(Boolean c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatTextBox.set_UseSystemPasswordChar(Boolean value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c5d04379b064d15878abe0b5a6e1fe60a(Boolean )" />
 <Entry OldName="ck6.FlatTextBox.get_Multiline()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.get_c474cbecbaf0db3fa3a04468fd93af2f2()" />
-<Entry OldName="ck6.FlatTextBox.set_Multiline(Boolean value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c474cbecbaf0db3fa3a04468fd93af2f2(Boolean c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatTextBox.set_Multiline(Boolean value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c474cbecbaf0db3fa3a04468fd93af2f2(Boolean )" />
 <Entry OldName="ck6.FlatTextBox.get_Text()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.get_Text()" />
 <Entry OldName="ck6.FlatTextBox.set_Text(String value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_Text(String value)" />
 <Entry OldName="ck6.FlatTextBox.get_Font()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.get_Font()" />
 <Entry OldName="ck6.FlatTextBox.set_Font(Font value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_Font(Font value)" />
 <Entry OldName="ck6.FlatTextBox.OnCreateControl()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.OnCreateControl()" />
-<Entry OldName="ck6.FlatTextBox.OnBaseTextChanged(Object s, EventArgs e)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.caf2d56cf73cb0c80cb969f39d1d96f40(Object c4c6d9a932df36d60f58eb3f7ab6c74e5, EventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
-<Entry OldName="ck6.FlatTextBox.OnBaseKeyDown(Object s, KeyEventArgs e)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.cb5d1acffe0f4af880ce69927d87fe71e(Object c4c6d9a932df36d60f58eb3f7ab6c74e5, KeyEventArgs c35f21124c2e12f36d01b19dcf7f1fbe1)" />
+<Entry OldName="ck6.FlatTextBox.OnBaseTextChanged(Object s, EventArgs e)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.caf2d56cf73cb0c80cb969f39d1d96f40(Object , EventArgs )" />
+<Entry OldName="ck6.FlatTextBox.OnBaseKeyDown(Object s, KeyEventArgs e)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.cb5d1acffe0f4af880ce69927d87fe71e(Object , KeyEventArgs )" />
 <Entry OldName="ck6.FlatTextBox.OnResize(EventArgs e)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.OnResize(EventArgs e)" />
 <Entry OldName="ck6.FlatTextBox.get_TextColor()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.get_c7c736a7b23b34162ab44f9b3f6cd2b5b()" />
-<Entry OldName="ck6.FlatTextBox.set_TextColor(Color value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c7c736a7b23b34162ab44f9b3f6cd2b5b(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatTextBox.set_TextColor(Color value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_c7c736a7b23b34162ab44f9b3f6cd2b5b(Color )" />
 <Entry OldName="ck6.FlatTextBox.get_ForeColor()" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.get_ForeColor()" />
 <Entry OldName="ck6.FlatTextBox.set_ForeColor(Color value)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.set_ForeColor(Color value)" />
 <Entry OldName="ck6.FlatTextBox.OnMouseDown(MouseEventArgs e)" NewName="A.cddcd669f2429442660ebbb2b9ba1d79b.OnMouseDown(MouseEventArgs e)" />
@@ -417,27 +416,27 @@
 <Entry OldName="ck6.FlatTabControl..ctor()" NewName="A.c38400aa92c2bda1f7555f028e8347e13..ctor()" />
 <Entry OldName="ck6.FlatTabControl.CreateHandle()" NewName="A.c38400aa92c2bda1f7555f028e8347e13.CreateHandle()" />
 <Entry OldName="ck6.FlatTabControl.get_ActiveColor()" NewName="A.c38400aa92c2bda1f7555f028e8347e13.get_c2eff9fef3835284990e9172675020405()" />
-<Entry OldName="ck6.FlatTabControl.set_ActiveColor(Color value)" NewName="A.c38400aa92c2bda1f7555f028e8347e13.set_c2eff9fef3835284990e9172675020405(Color c62ddedf14bf66d680f886c33aac4d044)" />
+<Entry OldName="ck6.FlatTabControl.set_ActiveColor(Color value)" NewName="A.c38400aa92c2bda1f7555f028e8347e13.set_c2eff9fef3835284990e9172675020405(Color )" />
 <Entry OldName="ck6.FlatTabControl.OnPaint(PaintEventArgs e)" NewName="A.c38400aa92c2bda1f7555f028e8347e13.OnPaint(PaintEventArgs e)" />
 <Entry OldName="ck6.vars..cctor()" NewName="A.cff9443c647b0ca719c90f369173a7fdf..cctor()" />
 <Entry OldName="ck6.My.MyProject.MyForms..ctor()" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf..ctor()" />
-<Entry OldName="ck6.My.MyProject.MyForms.Create__Instance__[T](T Instance)" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.cbaf37538099eee0d9369366ace5a39cc[c933d6bdb5f5bea4bc6835d397773c2dc](c933d6bdb5f5bea4bc6835d397773c2dc c4118a7b3de7389d349716f991834ee3b)" />
-<Entry OldName="ck6.My.MyProject.MyForms.Dispose__Instance__[T](T&amp; instance)" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.cbb314dbbc35fd6f117f8572d82faa5ba[c933d6bdb5f5bea4bc6835d397773c2dc](c933d6bdb5f5bea4bc6835d397773c2dc&amp; c33b8402d63b97a7da9662c8207193469)" />
+<Entry OldName="ck6.My.MyProject.MyForms.Create__Instance__[T](T Instance)" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.cbaf37538099eee0d9369366ace5a39cc[A](A )" />
+<Entry OldName="ck6.My.MyProject.MyForms.Dispose__Instance__[T](T&amp; instance)" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.cbb314dbbc35fd6f117f8572d82faa5ba[A](A&amp; )" />
 <Entry OldName="ck6.My.MyProject.MyForms.Equals(Object o)" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.Equals(Object o)" />
 <Entry OldName="ck6.My.MyProject.MyForms.GetHashCode()" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.GetHashCode()" />
 <Entry OldName="ck6.My.MyProject.MyForms.GetType()" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.cce259349556ec33e2c2990b42f7267e5()" />
 <Entry OldName="ck6.My.MyProject.MyForms.ToString()" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.ToString()" />
 <Entry OldName="ck6.My.MyProject.MyForms.get_adv()" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.get_ca8945a23bfd330344d9927e41a264de0()" />
 <Entry OldName="ck6.My.MyProject.MyForms.get_Form1()" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.get_cd9b9787903cd6219db4a1374f2e97d2d()" />
-<Entry OldName="ck6.My.MyProject.MyForms.set_adv(adv Value)" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.set_ca8945a23bfd330344d9927e41a264de0(adv c3d0c4865e4b8f3c378cda36c2e2b9140)" />
-<Entry OldName="ck6.My.MyProject.MyForms.set_Form1(Form1 Value)" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.set_cd9b9787903cd6219db4a1374f2e97d2d(Form1 c3d0c4865e4b8f3c378cda36c2e2b9140)" />
+<Entry OldName="ck6.My.MyProject.MyForms.set_adv(adv Value)" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.set_ca8945a23bfd330344d9927e41a264de0(adv )" />
+<Entry OldName="ck6.My.MyProject.MyForms.set_Form1(Form1 Value)" NewName="A.c2ddff772711dc43910697e91860914b7.c10736a48e59c3f4b01f931f01e93e6cf.set_cd9b9787903cd6219db4a1374f2e97d2d(Form1 )" />
 <Entry OldName="ck6.My.MyProject.MyWebServices..ctor()" NewName="A.c2ddff772711dc43910697e91860914b7.cadb1745de2ea199a8de75ffc1a35dc0e..ctor()" />
 <Entry OldName="ck6.My.MyProject.MyWebServices.Equals(Object o)" NewName="A.c2ddff772711dc43910697e91860914b7.cadb1745de2ea199a8de75ffc1a35dc0e.Equals(Object o)" />
 <Entry OldName="ck6.My.MyProject.MyWebServices.GetHashCode()" NewName="A.c2ddff772711dc43910697e91860914b7.cadb1745de2ea199a8de75ffc1a35dc0e.GetHashCode()" />
 <Entry OldName="ck6.My.MyProject.MyWebServices.GetType()" NewName="A.c2ddff772711dc43910697e91860914b7.cadb1745de2ea199a8de75ffc1a35dc0e.cce259349556ec33e2c2990b42f7267e5()" />
 <Entry OldName="ck6.My.MyProject.MyWebServices.ToString()" NewName="A.c2ddff772711dc43910697e91860914b7.cadb1745de2ea199a8de75ffc1a35dc0e.ToString()" />
-<Entry OldName="ck6.My.MyProject.MyWebServices.Create__Instance__[T](T instance)" NewName="A.c2ddff772711dc43910697e91860914b7.cadb1745de2ea199a8de75ffc1a35dc0e.cbaf37538099eee0d9369366ace5a39cc[c933d6bdb5f5bea4bc6835d397773c2dc](c933d6bdb5f5bea4bc6835d397773c2dc c33b8402d63b97a7da9662c8207193469)" />
-<Entry OldName="ck6.My.MyProject.MyWebServices.Dispose__Instance__[T](T&amp; instance)" NewName="A.c2ddff772711dc43910697e91860914b7.cadb1745de2ea199a8de75ffc1a35dc0e.cbb314dbbc35fd6f117f8572d82faa5ba[c933d6bdb5f5bea4bc6835d397773c2dc](c933d6bdb5f5bea4bc6835d397773c2dc&amp; c33b8402d63b97a7da9662c8207193469)" />
+<Entry OldName="ck6.My.MyProject.MyWebServices.Create__Instance__[T](T instance)" NewName="A.c2ddff772711dc43910697e91860914b7.cadb1745de2ea199a8de75ffc1a35dc0e.cbaf37538099eee0d9369366ace5a39cc[A](A )" />
+<Entry OldName="ck6.My.MyProject.MyWebServices.Dispose__Instance__[T](T&amp; instance)" NewName="A.c2ddff772711dc43910697e91860914b7.cadb1745de2ea199a8de75ffc1a35dc0e.cbb314dbbc35fd6f117f8572d82faa5ba[A](A&amp; )" />
 <Entry OldName="ck6.My.MyProject.ThreadSafeObjectProvider`1..ctor()" NewName="A.c2ddff772711dc43910697e91860914b7.c7f2ab494a880e6197e9cfc58233e1f6d`1..ctor()" />
 <Entry OldName="ck6.My.MyProject.ThreadSafeObjectProvider`1.get_GetInstance()" NewName="A.c2ddff772711dc43910697e91860914b7.c7f2ab494a880e6197e9cfc58233e1f6d`1.get_ca0c9a89a685289bc3365956ee7583b61()" />
 <Entry OldName="ck6.FlatToggle.CheckedChangedEventHandler..ctor(Object TargetObject, IntPtr TargetMethod)" NewName="A.cd2aa3d7bc61b423a7a2b7da5d9dc98c4.cc9d3451c848198d149f497563088f3c2..ctor(Object TargetObject, IntPtr TargetMethod)" />
@@ -604,7 +603,7 @@
 <Method Token="100663376" Name="FlatButton1_Click" Variables="this;sender;e;V_0;a;V_2;" ParamCnt="3" />
 <Method Token="100663377" Name="FlatButton2_Click" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
 <Method Token="100663378" Name="startscan" Variables="this;" ParamCnt="1" />
-<Method Token="100663379" Name="FlatButton4_Click" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663379" Name="FlatButton4_Click" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
 <Method Token="100663380" Name="PictureBox2_Click" Variables="this;sender;e;" ParamCnt="3" />
 <Method Token="100663381" Name="FlatButton3_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
 <Method Token="100663382" Name="FlatButton5_Click" Variables="this;sender;e;V_0;V_1;V_2;a;V_4;" ParamCnt="3" />
@@ -648,36 +647,34 @@
 <Method Token="100663420" Name="set_FlatButton3" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
 <Method Token="100663421" Name="get_FlatButton4" Variables="this;" ParamCnt="1" />
 <Method Token="100663422" Name="set_FlatButton4" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
-<Method Token="100663423" Name="get_PictureBox2" Variables="this;" ParamCnt="1" />
-<Method Token="100663424" Name="set_PictureBox2" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
-<Method Token="100663425" Name="get_Label7" Variables="this;" ParamCnt="1" />
-<Method Token="100663426" Name="set_Label7" Variables="this;WithEventsValue;" ParamCnt="2" />
-<Method Token="100663427" Name="get_TextBox1" Variables="this;" ParamCnt="1" />
-<Method Token="100663428" Name="set_TextBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
-<Method Token="100663429" Name="get_Label9" Variables="this;" ParamCnt="1" />
-<Method Token="100663430" Name="set_Label9" Variables="this;WithEventsValue;" ParamCnt="2" />
-<Method Token="100663431" Name="get_Label10" Variables="this;" ParamCnt="1" />
-<Method Token="100663432" Name="set_Label10" Variables="this;WithEventsValue;" ParamCnt="2" />
-<Method Token="100663433" Name="get_TextBox2" Variables="this;" ParamCnt="1" />
-<Method Token="100663434" Name="set_TextBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
-<Method Token="100663435" Name="get_Label8" Variables="this;" ParamCnt="1" />
-<Method Token="100663436" Name="set_Label8" Variables="this;WithEventsValue;" ParamCnt="2" />
-<Method Token="100663437" Name="get_FlatButton5" Variables="this;" ParamCnt="1" />
-<Method Token="100663438" Name="set_FlatButton5" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
-<Method Token="100663439" Name="get_Label5" Variables="this;" ParamCnt="1" />
-<Method Token="100663440" Name="set_Label5" Variables="this;WithEventsValue;" ParamCnt="2" />
-<Method Token="100663441" Name="get_Panel1" Variables="this;" ParamCnt="1" />
-<Method Token="100663442" Name="set_Panel1" Variables="this;WithEventsValue;" ParamCnt="2" />
-<Method Token="100663443" Name="get_status" Variables="this;" ParamCnt="1" />
-<Method Token="100663444" Name="set_status" Variables="this;WithEventsValue;" ParamCnt="2" />
-<Method Token="100663445" Name="get_killahwestsideniggah" Variables="this;" ParamCnt="1" />
-<Method Token="100663446" Name="set_killahwestsideniggah" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
-<Method Token="100663447" Name="get_Button1" Variables="this;" ParamCnt="1" />
-<Method Token="100663448" Name="set_Button1" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
-<Method Token="100663449" Name="get_fun" Variables="this;" ParamCnt="1" />
-<Method Token="100663450" Name="set_fun" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
-<Method Token="100663451" Name="get_FlatButton6" Variables="this;" ParamCnt="1" />
-<Method Token="100663452" Name="set_FlatButton6" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663423" Name="get_Label7" Variables="this;" ParamCnt="1" />
+<Method Token="100663424" Name="set_Label7" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663425" Name="get_TextBox1" Variables="this;" ParamCnt="1" />
+<Method Token="100663426" Name="set_TextBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663427" Name="get_Label9" Variables="this;" ParamCnt="1" />
+<Method Token="100663428" Name="set_Label9" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663429" Name="get_Label10" Variables="this;" ParamCnt="1" />
+<Method Token="100663430" Name="set_Label10" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663431" Name="get_TextBox2" Variables="this;" ParamCnt="1" />
+<Method Token="100663432" Name="set_TextBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663433" Name="get_Label8" Variables="this;" ParamCnt="1" />
+<Method Token="100663434" Name="set_Label8" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663435" Name="get_FlatButton5" Variables="this;" ParamCnt="1" />
+<Method Token="100663436" Name="set_FlatButton5" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663437" Name="get_Panel1" Variables="this;" ParamCnt="1" />
+<Method Token="100663438" Name="set_Panel1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663439" Name="get_status" Variables="this;" ParamCnt="1" />
+<Method Token="100663440" Name="set_status" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663441" Name="get_killahwestsideniggah" Variables="this;" ParamCnt="1" />
+<Method Token="100663442" Name="set_killahwestsideniggah" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663443" Name="get_Button1" Variables="this;" ParamCnt="1" />
+<Method Token="100663444" Name="set_Button1" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663445" Name="get_fun" Variables="this;" ParamCnt="1" />
+<Method Token="100663446" Name="set_fun" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663447" Name="get_FlatButton6" Variables="this;" ParamCnt="1" />
+<Method Token="100663448" Name="set_FlatButton6" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663449" Name="get_Panel2" Variables="this;" ParamCnt="1" />
+<Method Token="100663450" Name="set_Panel2" Variables="this;WithEventsValue;" ParamCnt="2" />
 <Field Token="67108895" Name="taskkillproc" />
 <Field Token="67108896" Name="targetlist" />
 <Field Token="67108897" Name="tlacount" />
@@ -704,384 +701,383 @@
 <Field Token="67108918" Name="_Label6" />
 <Field Token="67108919" Name="_FlatButton3" />
 <Field Token="67108920" Name="_FlatButton4" />
-<Field Token="67108921" Name="_PictureBox2" />
-<Field Token="67108922" Name="_Label7" />
-<Field Token="67108923" Name="_TextBox1" />
-<Field Token="67108924" Name="_Label9" />
-<Field Token="67108925" Name="_Label10" />
-<Field Token="67108926" Name="_TextBox2" />
-<Field Token="67108927" Name="_Label8" />
-<Field Token="67108928" Name="_FlatButton5" />
-<Field Token="67108929" Name="_Label5" />
-<Field Token="67108930" Name="_Panel1" />
-<Field Token="67108931" Name="_status" />
-<Field Token="67108932" Name="_killahwestsideniggah" />
-<Field Token="67108933" Name="_Button1" />
-<Field Token="67108934" Name="_fun" />
-<Field Token="67108935" Name="_FlatButton6" />
+<Field Token="67108921" Name="_Label7" />
+<Field Token="67108922" Name="_TextBox1" />
+<Field Token="67108923" Name="_Label9" />
+<Field Token="67108924" Name="_Label10" />
+<Field Token="67108925" Name="_TextBox2" />
+<Field Token="67108926" Name="_Label8" />
+<Field Token="67108927" Name="_FlatButton5" />
+<Field Token="67108928" Name="_Panel1" />
+<Field Token="67108929" Name="_status" />
+<Field Token="67108930" Name="_killahwestsideniggah" />
+<Field Token="67108931" Name="_Button1" />
+<Field Token="67108932" Name="_fun" />
+<Field Token="67108933" Name="_FlatButton6" />
+<Field Token="67108934" Name="_Panel2" />
 <Type Token="33554444" Name="ck6.Helpers" />
-<Method Token="100663453" Name=".cctor" Variables="" ParamCnt="0" />
-<Method Token="100663454" Name="RoundRec" Variables="Rectangle;Curve;RoundRec;P;ArcRectangleWidth;" ParamCnt="2" />
-<Method Token="100663455" Name="DrawArrow" Variables="x;y;flip;DrawArrow;GP;W;H;V_4;" ParamCnt="3" />
-<Field Token="67108936" Name="G" />
-<Field Token="67108937" Name="B" />
-<Field Token="67108938" Name="_FlatColor" />
-<Field Token="67108939" Name="NearSF" />
-<Field Token="67108940" Name="CenterSF" />
+<Method Token="100663451" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663452" Name="RoundRec" Variables="Rectangle;Curve;RoundRec;P;ArcRectangleWidth;" ParamCnt="2" />
+<Method Token="100663453" Name="DrawArrow" Variables="x;y;flip;DrawArrow;GP;W;H;V_4;" ParamCnt="3" />
+<Field Token="67108935" Name="G" />
+<Field Token="67108936" Name="B" />
+<Field Token="67108937" Name="_FlatColor" />
+<Field Token="67108938" Name="NearSF" />
+<Field Token="67108939" Name="CenterSF" />
 <Type Token="33554445" Name="ck6.MouseState" />
-<Field Token="67108941" Name="value__" />
-<Field Token="67108942" Name="None" />
-<Field Token="67108943" Name="Over" />
-<Field Token="67108944" Name="Down" />
-<Field Token="67108945" Name="Block" />
+<Field Token="67108940" Name="value__" />
+<Field Token="67108941" Name="None" />
+<Field Token="67108942" Name="Over" />
+<Field Token="67108943" Name="Down" />
+<Field Token="67108944" Name="Block" />
 <Type Token="33554446" Name="ck6.FormSkin" />
-<Method Token="100663456" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663457" Name="get_HeaderColor" Variables="this;HeaderColor;" ParamCnt="1" />
-<Method Token="100663458" Name="set_HeaderColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663459" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
-<Method Token="100663460" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663461" Name="get_BorderColor" Variables="this;BorderColor;" ParamCnt="1" />
-<Method Token="100663462" Name="set_BorderColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663463" Name="get_FlatColor" Variables="this;FlatColor;" ParamCnt="1" />
-<Method Token="100663464" Name="set_FlatColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663465" Name="get_HeaderMaximize" Variables="this;HeaderMaximize;" ParamCnt="1" />
-<Method Token="100663466" Name="set_HeaderMaximize" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663467" Name="OnMouseDown" Variables="this;e;V_0;V_1;" ParamCnt="2" />
-<Method Token="100663468" Name="FormSkin_MouseDoubleClick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
-<Method Token="100663469" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663470" Name="OnMouseMove" Variables="this;e;V_0;" ParamCnt="2" />
-<Method Token="100663471" Name="OnCreateControl" Variables="this;" ParamCnt="1" />
-<Method Token="100663472" Name="OnPaint" Variables="this;e;Base;Header;$W0;" ParamCnt="2" />
-<Field Token="67108946" Name="W" />
-<Field Token="67108947" Name="H" />
-<Field Token="67108948" Name="Cap" />
-<Field Token="67108949" Name="_HeaderMaximize" />
-<Field Token="67108950" Name="MousePoint" />
-<Field Token="67108951" Name="MoveHeight" />
-<Field Token="67108952" Name="_HeaderColor" />
-<Field Token="67108953" Name="_BaseColor" />
-<Field Token="67108954" Name="_BorderColor" />
-<Field Token="67108955" Name="TextColor" />
+<Method Token="100663454" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663455" Name="get_HeaderColor" Variables="this;HeaderColor;" ParamCnt="1" />
+<Method Token="100663456" Name="set_HeaderColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663457" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
+<Method Token="100663458" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663459" Name="get_BorderColor" Variables="this;BorderColor;" ParamCnt="1" />
+<Method Token="100663460" Name="set_BorderColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663461" Name="get_FlatColor" Variables="this;FlatColor;" ParamCnt="1" />
+<Method Token="100663462" Name="set_FlatColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663463" Name="get_HeaderMaximize" Variables="this;HeaderMaximize;" ParamCnt="1" />
+<Method Token="100663464" Name="set_HeaderMaximize" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663465" Name="OnMouseDown" Variables="this;e;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663466" Name="FormSkin_MouseDoubleClick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663467" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663468" Name="OnMouseMove" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663469" Name="OnCreateControl" Variables="this;" ParamCnt="1" />
+<Method Token="100663470" Name="OnPaint" Variables="this;e;Base;Header;$W0;" ParamCnt="2" />
+<Field Token="67108945" Name="W" />
+<Field Token="67108946" Name="H" />
+<Field Token="67108947" Name="Cap" />
+<Field Token="67108948" Name="_HeaderMaximize" />
+<Field Token="67108949" Name="MousePoint" />
+<Field Token="67108950" Name="MoveHeight" />
+<Field Token="67108951" Name="_HeaderColor" />
+<Field Token="67108952" Name="_BaseColor" />
+<Field Token="67108953" Name="_BorderColor" />
+<Field Token="67108954" Name="TextColor" />
 <Type Token="33554447" Name="ck6.FlatClose" />
-<Method Token="100663473" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663474" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663475" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663476" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663477" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663478" Name="OnMouseMove" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663479" Name="OnClick" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663480" Name="OnResize" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663481" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
-<Method Token="100663482" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663483" Name="get_TextColor" Variables="this;TextColor;" ParamCnt="1" />
-<Method Token="100663484" Name="set_TextColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663485" Name="OnPaint" Variables="this;e;B;G;Base;$W0;V_4;" ParamCnt="2" />
-<Field Token="67108956" Name="State" />
-<Field Token="67108957" Name="x" />
-<Field Token="67108958" Name="_BaseColor" />
-<Field Token="67108959" Name="_TextColor" />
+<Method Token="100663471" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663472" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663473" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663474" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663475" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663476" Name="OnMouseMove" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663477" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663478" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663479" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
+<Method Token="100663480" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663481" Name="get_TextColor" Variables="this;TextColor;" ParamCnt="1" />
+<Method Token="100663482" Name="set_TextColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663483" Name="OnPaint" Variables="this;e;B;G;Base;$W0;V_4;" ParamCnt="2" />
+<Field Token="67108955" Name="State" />
+<Field Token="67108956" Name="x" />
+<Field Token="67108957" Name="_BaseColor" />
+<Field Token="67108958" Name="_TextColor" />
 <Type Token="33554448" Name="ck6.FlatMax" />
-<Method Token="100663486" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663487" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663488" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663489" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663490" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663491" Name="OnMouseMove" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663492" Name="OnClick" Variables="this;e;V_0;" ParamCnt="2" />
-<Method Token="100663493" Name="OnResize" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663494" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
-<Method Token="100663495" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663496" Name="get_TextColor" Variables="this;TextColor;" ParamCnt="1" />
-<Method Token="100663497" Name="set_TextColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663498" Name="OnPaint" Variables="this;e;B;G;Base;$W0;V_4;V_5;V_6;" ParamCnt="2" />
-<Field Token="67108960" Name="State" />
-<Field Token="67108961" Name="x" />
-<Field Token="67108962" Name="_BaseColor" />
-<Field Token="67108963" Name="_TextColor" />
+<Method Token="100663484" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663485" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663486" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663487" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663488" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663489" Name="OnMouseMove" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663490" Name="OnClick" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663491" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663492" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
+<Method Token="100663493" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663494" Name="get_TextColor" Variables="this;TextColor;" ParamCnt="1" />
+<Method Token="100663495" Name="set_TextColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663496" Name="OnPaint" Variables="this;e;B;G;Base;$W0;V_4;V_5;V_6;" ParamCnt="2" />
+<Field Token="67108959" Name="State" />
+<Field Token="67108960" Name="x" />
+<Field Token="67108961" Name="_BaseColor" />
+<Field Token="67108962" Name="_TextColor" />
 <Type Token="33554450" Name="ck6.FlatMini" />
-<Method Token="100663502" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663503" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663504" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663505" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663506" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663507" Name="OnMouseMove" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663508" Name="OnClick" Variables="this;e;V_0;" ParamCnt="2" />
-<Method Token="100663509" Name="OnResize" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663510" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
-<Method Token="100663511" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663512" Name="get_TextColor" Variables="this;TextColor;" ParamCnt="1" />
-<Method Token="100663513" Name="set_TextColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663514" Name="OnPaint" Variables="this;e;B;G;Base;$W0;V_4;" ParamCnt="2" />
-<Field Token="67108965" Name="State" />
-<Field Token="67108966" Name="x" />
-<Field Token="67108967" Name="_BaseColor" />
-<Field Token="67108968" Name="_TextColor" />
+<Method Token="100663500" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663501" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663502" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663503" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663504" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663505" Name="OnMouseMove" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663506" Name="OnClick" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663507" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663508" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
+<Method Token="100663509" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663510" Name="get_TextColor" Variables="this;TextColor;" ParamCnt="1" />
+<Method Token="100663511" Name="set_TextColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663512" Name="OnPaint" Variables="this;e;B;G;Base;$W0;V_4;" ParamCnt="2" />
+<Field Token="67108964" Name="State" />
+<Field Token="67108965" Name="x" />
+<Field Token="67108966" Name="_BaseColor" />
+<Field Token="67108967" Name="_TextColor" />
 <Type Token="33554451" Name="ck6.FlatColorPalette" />
-<Method Token="100663515" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663516" Name="OnResize" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663517" Name="get_Red" Variables="this;Red;" ParamCnt="1" />
-<Method Token="100663518" Name="set_Red" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663519" Name="get_Cyan" Variables="this;Cyan;" ParamCnt="1" />
-<Method Token="100663520" Name="set_Cyan" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663521" Name="get_Blue" Variables="this;Blue;" ParamCnt="1" />
-<Method Token="100663522" Name="set_Blue" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663523" Name="get_LimeGreen" Variables="this;LimeGreen;" ParamCnt="1" />
-<Method Token="100663524" Name="set_LimeGreen" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663525" Name="get_Orange" Variables="this;Orange;" ParamCnt="1" />
-<Method Token="100663526" Name="set_Orange" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663527" Name="get_Purple" Variables="this;Purple;" ParamCnt="1" />
-<Method Token="100663528" Name="set_Purple" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663529" Name="get_Black" Variables="this;Black;" ParamCnt="1" />
-<Method Token="100663530" Name="set_Black" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663531" Name="get_Gray" Variables="this;Gray;" ParamCnt="1" />
-<Method Token="100663532" Name="set_Gray" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663533" Name="get_White" Variables="this;White;" ParamCnt="1" />
-<Method Token="100663534" Name="set_White" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663535" Name="OnPaint" Variables="this;e;$W0;" ParamCnt="2" />
-<Field Token="67108969" Name="W" />
-<Field Token="67108970" Name="H" />
-<Field Token="67108971" Name="_Red" />
-<Field Token="67108972" Name="_Cyan" />
-<Field Token="67108973" Name="_Blue" />
-<Field Token="67108974" Name="_LimeGreen" />
-<Field Token="67108975" Name="_Orange" />
-<Field Token="67108976" Name="_Purple" />
-<Field Token="67108977" Name="_Black" />
-<Field Token="67108978" Name="_Gray" />
-<Field Token="67108979" Name="_White" />
+<Method Token="100663513" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663514" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663515" Name="get_Red" Variables="this;Red;" ParamCnt="1" />
+<Method Token="100663516" Name="set_Red" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663517" Name="get_Cyan" Variables="this;Cyan;" ParamCnt="1" />
+<Method Token="100663518" Name="set_Cyan" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663519" Name="get_Blue" Variables="this;Blue;" ParamCnt="1" />
+<Method Token="100663520" Name="set_Blue" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663521" Name="get_LimeGreen" Variables="this;LimeGreen;" ParamCnt="1" />
+<Method Token="100663522" Name="set_LimeGreen" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663523" Name="get_Orange" Variables="this;Orange;" ParamCnt="1" />
+<Method Token="100663524" Name="set_Orange" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663525" Name="get_Purple" Variables="this;Purple;" ParamCnt="1" />
+<Method Token="100663526" Name="set_Purple" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663527" Name="get_Black" Variables="this;Black;" ParamCnt="1" />
+<Method Token="100663528" Name="set_Black" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663529" Name="get_Gray" Variables="this;Gray;" ParamCnt="1" />
+<Method Token="100663530" Name="set_Gray" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663531" Name="get_White" Variables="this;White;" ParamCnt="1" />
+<Method Token="100663532" Name="set_White" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663533" Name="OnPaint" Variables="this;e;$W0;" ParamCnt="2" />
+<Field Token="67108968" Name="W" />
+<Field Token="67108969" Name="H" />
+<Field Token="67108970" Name="_Red" />
+<Field Token="67108971" Name="_Cyan" />
+<Field Token="67108972" Name="_Blue" />
+<Field Token="67108973" Name="_LimeGreen" />
+<Field Token="67108974" Name="_Orange" />
+<Field Token="67108975" Name="_Purple" />
+<Field Token="67108976" Name="_Black" />
+<Field Token="67108977" Name="_Gray" />
+<Field Token="67108978" Name="_White" />
 <Type Token="33554452" Name="ck6.FlatGroupBox" />
-<Method Token="100663536" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663537" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
-<Method Token="100663538" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663539" Name="get_ShowText" Variables="this;ShowText;" ParamCnt="1" />
-<Method Token="100663540" Name="set_ShowText" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663541" Name="OnPaint" Variables="this;e;GP;GP2;GP3;Base;$W0;V_5;" ParamCnt="2" />
-<Field Token="67108980" Name="W" />
-<Field Token="67108981" Name="H" />
-<Field Token="67108982" Name="_ShowText" />
-<Field Token="67108983" Name="_BaseColor" />
+<Method Token="100663534" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663535" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
+<Method Token="100663536" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663537" Name="get_ShowText" Variables="this;ShowText;" ParamCnt="1" />
+<Method Token="100663538" Name="set_ShowText" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663539" Name="OnPaint" Variables="this;e;GP;GP2;GP3;Base;$W0;V_5;" ParamCnt="2" />
+<Field Token="67108979" Name="W" />
+<Field Token="67108980" Name="H" />
+<Field Token="67108981" Name="_ShowText" />
+<Field Token="67108982" Name="_BaseColor" />
 <Type Token="33554454" Name="ck6.FlatButton" />
-<Method Token="100663549" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663550" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
-<Method Token="100663551" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663552" Name="get_TextColor" Variables="this;TextColor;" ParamCnt="1" />
-<Method Token="100663553" Name="set_TextColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663554" Name="get_Rounded" Variables="this;Rounded;" ParamCnt="1" />
-<Method Token="100663555" Name="set_Rounded" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663556" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663557" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663558" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663559" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663560" Name="OnPaint" Variables="this;e;GP;Base;$W0;V_3;V_4;V_5;V_6;" ParamCnt="2" />
-<Field Token="67108990" Name="W" />
-<Field Token="67108991" Name="H" />
-<Field Token="67108992" Name="_Rounded" />
-<Field Token="67108993" Name="State" />
-<Field Token="67108994" Name="_BaseColor" />
-<Field Token="67108995" Name="_TextColor" />
+<Method Token="100663547" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663548" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
+<Method Token="100663549" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663550" Name="get_TextColor" Variables="this;TextColor;" ParamCnt="1" />
+<Method Token="100663551" Name="set_TextColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663552" Name="get_Rounded" Variables="this;Rounded;" ParamCnt="1" />
+<Method Token="100663553" Name="set_Rounded" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663554" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663555" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663556" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663557" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663558" Name="OnPaint" Variables="this;e;GP;Base;$W0;V_3;V_4;V_5;V_6;" ParamCnt="2" />
+<Field Token="67108989" Name="W" />
+<Field Token="67108990" Name="H" />
+<Field Token="67108991" Name="_Rounded" />
+<Field Token="67108992" Name="State" />
+<Field Token="67108993" Name="_BaseColor" />
+<Field Token="67108994" Name="_TextColor" />
 <Type Token="33554455" Name="ck6.FlatToggle" />
-<Method Token="100663561" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663562" Name="add_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
-<Method Token="100663563" Name="remove_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
-<Method Token="100663564" Name="get_Options" Variables="this;Options;" ParamCnt="1" />
-<Method Token="100663565" Name="set_Options" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663566" Name="get_Checked" Variables="this;Checked;" ParamCnt="1" />
-<Method Token="100663567" Name="set_Checked" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663568" Name="OnTextChanged" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663569" Name="OnResize" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663570" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663571" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663572" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663573" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663574" Name="OnClick" Variables="this;e;V_0;" ParamCnt="2" />
-<Method Token="100663575" Name="OnPaint" Variables="this;e;GP;GP2;Base;Toggle;$W0;V_5;V_6;V_7;V_8;V_9;V_10;" ParamCnt="2" />
-<Field Token="67108996" Name="W" />
-<Field Token="67108997" Name="H" />
-<Field Token="67108998" Name="O" />
-<Field Token="67108999" Name="_Checked" />
-<Field Token="67109000" Name="State" />
-<Field Token="67109001" Name="CheckedChangedEvent" />
-<Field Token="67109002" Name="BaseColor" />
-<Field Token="67109003" Name="BaseColorRed" />
-<Field Token="67109004" Name="BGColor" />
-<Field Token="67109005" Name="ToggleColor" />
-<Field Token="67109006" Name="TextColor" />
+<Method Token="100663559" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663560" Name="add_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663561" Name="remove_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663562" Name="get_Options" Variables="this;Options;" ParamCnt="1" />
+<Method Token="100663563" Name="set_Options" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663564" Name="get_Checked" Variables="this;Checked;" ParamCnt="1" />
+<Method Token="100663565" Name="set_Checked" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663566" Name="OnTextChanged" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663567" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663568" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663569" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663570" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663571" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663572" Name="OnClick" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663573" Name="OnPaint" Variables="this;e;GP;GP2;Base;Toggle;$W0;V_5;V_6;V_7;V_8;V_9;V_10;" ParamCnt="2" />
+<Field Token="67108995" Name="W" />
+<Field Token="67108996" Name="H" />
+<Field Token="67108997" Name="O" />
+<Field Token="67108998" Name="_Checked" />
+<Field Token="67108999" Name="State" />
+<Field Token="67109000" Name="CheckedChangedEvent" />
+<Field Token="67109001" Name="BaseColor" />
+<Field Token="67109002" Name="BaseColorRed" />
+<Field Token="67109003" Name="BGColor" />
+<Field Token="67109004" Name="ToggleColor" />
+<Field Token="67109005" Name="TextColor" />
 <Type Token="33554456" Name="ck6.FlatRadioButton" />
-<Method Token="100663576" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663577" Name="add_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
-<Method Token="100663578" Name="remove_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
-<Method Token="100663579" Name="get_Checked" Variables="this;Checked;" ParamCnt="1" />
-<Method Token="100663580" Name="set_Checked" Variables="this;value;V_0;" ParamCnt="2" />
-<Method Token="100663581" Name="OnClick" Variables="this;e;V_0;" ParamCnt="2" />
-<Method Token="100663582" Name="InvalidateControls" Variables="this;V_0;V_1;C;V_3;V_4;" ParamCnt="1" />
-<Method Token="100663583" Name="OnCreateControl" Variables="this;" ParamCnt="1" />
-<Method Token="100663584" Name="get_Options" Variables="this;Options;" ParamCnt="1" />
-<Method Token="100663585" Name="set_Options" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663586" Name="OnResize" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663587" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
-<Method Token="100663588" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663589" Name="get_BorderColor" Variables="this;BorderColor;" ParamCnt="1" />
-<Method Token="100663590" Name="set_BorderColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663591" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663592" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663593" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663594" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663595" Name="OnPaint" Variables="this;e;Base;Dot;$W0;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="2" />
-<Field Token="67109007" Name="State" />
-<Field Token="67109008" Name="W" />
-<Field Token="67109009" Name="H" />
-<Field Token="67109010" Name="O" />
-<Field Token="67109011" Name="_Checked" />
-<Field Token="67109012" Name="CheckedChangedEvent" />
-<Field Token="67109013" Name="_BaseColor" />
-<Field Token="67109014" Name="_BorderColor" />
-<Field Token="67109015" Name="_TextColor" />
+<Method Token="100663574" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663575" Name="add_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663576" Name="remove_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663577" Name="get_Checked" Variables="this;Checked;" ParamCnt="1" />
+<Method Token="100663578" Name="set_Checked" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663579" Name="OnClick" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663580" Name="InvalidateControls" Variables="this;V_0;V_1;C;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663581" Name="OnCreateControl" Variables="this;" ParamCnt="1" />
+<Method Token="100663582" Name="get_Options" Variables="this;Options;" ParamCnt="1" />
+<Method Token="100663583" Name="set_Options" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663584" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663585" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
+<Method Token="100663586" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663587" Name="get_BorderColor" Variables="this;BorderColor;" ParamCnt="1" />
+<Method Token="100663588" Name="set_BorderColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663589" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663590" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663591" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663592" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663593" Name="OnPaint" Variables="this;e;Base;Dot;$W0;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="2" />
+<Field Token="67109006" Name="State" />
+<Field Token="67109007" Name="W" />
+<Field Token="67109008" Name="H" />
+<Field Token="67109009" Name="O" />
+<Field Token="67109010" Name="_Checked" />
+<Field Token="67109011" Name="CheckedChangedEvent" />
+<Field Token="67109012" Name="_BaseColor" />
+<Field Token="67109013" Name="_BorderColor" />
+<Field Token="67109014" Name="_TextColor" />
 <Type Token="33554458" Name="ck6.FlatCheckBox" />
-<Method Token="100663613" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663614" Name="OnTextChanged" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663615" Name="get_Checked" Variables="this;Checked;" ParamCnt="1" />
-<Method Token="100663616" Name="set_Checked" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663617" Name="add_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
-<Method Token="100663618" Name="remove_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
-<Method Token="100663619" Name="OnClick" Variables="this;e;V_0;" ParamCnt="2" />
-<Method Token="100663620" Name="get_Options" Variables="this;Options;" ParamCnt="1" />
-<Method Token="100663621" Name="set_Options" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663622" Name="OnResize" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663623" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
-<Method Token="100663624" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663625" Name="get_BorderColor" Variables="this;BorderColor;" ParamCnt="1" />
-<Method Token="100663626" Name="set_BorderColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663627" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663628" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663629" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663630" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663631" Name="OnPaint" Variables="this;e;Base;$W0;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
-<Field Token="67109020" Name="W" />
-<Field Token="67109021" Name="H" />
-<Field Token="67109022" Name="State" />
-<Field Token="67109023" Name="O" />
-<Field Token="67109024" Name="_Checked" />
-<Field Token="67109025" Name="CheckedChangedEvent" />
-<Field Token="67109026" Name="_BaseColor" />
-<Field Token="67109027" Name="_BorderColor" />
-<Field Token="67109028" Name="_TextColor" />
+<Method Token="100663611" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663612" Name="OnTextChanged" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663613" Name="get_Checked" Variables="this;Checked;" ParamCnt="1" />
+<Method Token="100663614" Name="set_Checked" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663615" Name="add_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663616" Name="remove_CheckedChanged" Variables="this;obj;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663617" Name="OnClick" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663618" Name="get_Options" Variables="this;Options;" ParamCnt="1" />
+<Method Token="100663619" Name="set_Options" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663620" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663621" Name="get_BaseColor" Variables="this;BaseColor;" ParamCnt="1" />
+<Method Token="100663622" Name="set_BaseColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663623" Name="get_BorderColor" Variables="this;BorderColor;" ParamCnt="1" />
+<Method Token="100663624" Name="set_BorderColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663625" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663626" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663627" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663628" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663629" Name="OnPaint" Variables="this;e;Base;$W0;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
+<Field Token="67109019" Name="W" />
+<Field Token="67109020" Name="H" />
+<Field Token="67109021" Name="State" />
+<Field Token="67109022" Name="O" />
+<Field Token="67109023" Name="_Checked" />
+<Field Token="67109024" Name="CheckedChangedEvent" />
+<Field Token="67109025" Name="_BaseColor" />
+<Field Token="67109026" Name="_BorderColor" />
+<Field Token="67109027" Name="_TextColor" />
 <Type Token="33554460" Name="ck6.FlatTextBox" />
-<Method Token="100663633" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663634" Name="get_TB" Variables="this;" ParamCnt="1" />
-<Method Token="100663635" Name="set_TB" Variables="this;WithEventsValue;" ParamCnt="2" />
-<Method Token="100663636" Name="get_TextAlign" Variables="this;TextAlign;" ParamCnt="1" />
-<Method Token="100663637" Name="set_TextAlign" Variables="this;value;V_0;" ParamCnt="2" />
-<Method Token="100663638" Name="get_MaxLength" Variables="this;MaxLength;" ParamCnt="1" />
-<Method Token="100663639" Name="set_MaxLength" Variables="this;value;V_0;" ParamCnt="2" />
-<Method Token="100663640" Name="get_ReadOnly" Variables="this;ReadOnly;" ParamCnt="1" />
-<Method Token="100663641" Name="set_ReadOnly" Variables="this;value;V_0;" ParamCnt="2" />
-<Method Token="100663642" Name="get_UseSystemPasswordChar" Variables="this;UseSystemPasswordChar;" ParamCnt="1" />
-<Method Token="100663643" Name="set_UseSystemPasswordChar" Variables="this;value;V_0;" ParamCnt="2" />
-<Method Token="100663644" Name="get_Multiline" Variables="this;Multiline;" ParamCnt="1" />
-<Method Token="100663645" Name="set_Multiline" Variables="this;value;V_0;V_1;" ParamCnt="2" />
-<Method Token="100663646" Name="get_Text" Variables="this;Text;" ParamCnt="1" />
-<Method Token="100663647" Name="set_Text" Variables="this;value;V_0;" ParamCnt="2" />
-<Method Token="100663648" Name="get_Font" Variables="this;Font;" ParamCnt="1" />
-<Method Token="100663649" Name="set_Font" Variables="this;value;V_0;V_1;" ParamCnt="2" />
-<Method Token="100663650" Name="OnCreateControl" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663651" Name="OnBaseTextChanged" Variables="this;s;e;" ParamCnt="3" />
-<Method Token="100663652" Name="OnBaseKeyDown" Variables="this;s;e;V_0;V_1;" ParamCnt="3" />
-<Method Token="100663653" Name="OnResize" Variables="this;e;V_0;" ParamCnt="2" />
-<Method Token="100663654" Name="get_TextColor" Variables="this;TextColor;" ParamCnt="1" />
-<Method Token="100663655" Name="set_TextColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663656" Name="get_ForeColor" Variables="this;ForeColor;" ParamCnt="1" />
-<Method Token="100663657" Name="set_ForeColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663658" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663659" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663660" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663661" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663662" Name="OnPaint" Variables="this;e;Base;$W0;" ParamCnt="2" />
-<Field Token="67109035" Name="W" />
-<Field Token="67109036" Name="H" />
-<Field Token="67109037" Name="State" />
-<Field Token="67109038" Name="_TB" />
-<Field Token="67109039" Name="_TextAlign" />
-<Field Token="67109040" Name="_MaxLength" />
-<Field Token="67109041" Name="_ReadOnly" />
-<Field Token="67109042" Name="_UseSystemPasswordChar" />
-<Field Token="67109043" Name="_Multiline" />
-<Field Token="67109044" Name="_BaseColor" />
-<Field Token="67109045" Name="_TextColor" />
-<Field Token="67109046" Name="_BorderColor" />
+<Method Token="100663631" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663632" Name="get_TB" Variables="this;" ParamCnt="1" />
+<Method Token="100663633" Name="set_TB" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663634" Name="get_TextAlign" Variables="this;TextAlign;" ParamCnt="1" />
+<Method Token="100663635" Name="set_TextAlign" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663636" Name="get_MaxLength" Variables="this;MaxLength;" ParamCnt="1" />
+<Method Token="100663637" Name="set_MaxLength" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663638" Name="get_ReadOnly" Variables="this;ReadOnly;" ParamCnt="1" />
+<Method Token="100663639" Name="set_ReadOnly" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663640" Name="get_UseSystemPasswordChar" Variables="this;UseSystemPasswordChar;" ParamCnt="1" />
+<Method Token="100663641" Name="set_UseSystemPasswordChar" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663642" Name="get_Multiline" Variables="this;Multiline;" ParamCnt="1" />
+<Method Token="100663643" Name="set_Multiline" Variables="this;value;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663644" Name="get_Text" Variables="this;Text;" ParamCnt="1" />
+<Method Token="100663645" Name="set_Text" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663646" Name="get_Font" Variables="this;Font;" ParamCnt="1" />
+<Method Token="100663647" Name="set_Font" Variables="this;value;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663648" Name="OnCreateControl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663649" Name="OnBaseTextChanged" Variables="this;s;e;" ParamCnt="3" />
+<Method Token="100663650" Name="OnBaseKeyDown" Variables="this;s;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663651" Name="OnResize" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663652" Name="get_TextColor" Variables="this;TextColor;" ParamCnt="1" />
+<Method Token="100663653" Name="set_TextColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663654" Name="get_ForeColor" Variables="this;ForeColor;" ParamCnt="1" />
+<Method Token="100663655" Name="set_ForeColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663656" Name="OnMouseDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663657" Name="OnMouseUp" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663658" Name="OnMouseEnter" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663659" Name="OnMouseLeave" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663660" Name="OnPaint" Variables="this;e;Base;$W0;" ParamCnt="2" />
+<Field Token="67109034" Name="W" />
+<Field Token="67109035" Name="H" />
+<Field Token="67109036" Name="State" />
+<Field Token="67109037" Name="_TB" />
+<Field Token="67109038" Name="_TextAlign" />
+<Field Token="67109039" Name="_MaxLength" />
+<Field Token="67109040" Name="_ReadOnly" />
+<Field Token="67109041" Name="_UseSystemPasswordChar" />
+<Field Token="67109042" Name="_Multiline" />
+<Field Token="67109043" Name="_BaseColor" />
+<Field Token="67109044" Name="_TextColor" />
+<Field Token="67109045" Name="_BorderColor" />
 <Type Token="33554462" Name="ck6.FlatTabControl" />
-<Method Token="100663667" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663668" Name="CreateHandle" Variables="this;" ParamCnt="1" />
-<Method Token="100663669" Name="get_ActiveColor" Variables="this;ActiveColor;" ParamCnt="1" />
-<Method Token="100663670" Name="set_ActiveColor" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663671" Name="OnPaint" Variables="this;e;GP;PGB;$W0;V_3;i;Base;BaseSize;V_7;V_8;V_9;$W1;V_11;V_12;ex;V_14;V_15;ex;" ParamCnt="2" />
-<Field Token="67109047" Name="W" />
-<Field Token="67109048" Name="H" />
-<Field Token="67109049" Name="BaseColor" />
-<Field Token="67109050" Name="_ActiveColor" />
+<Method Token="100663665" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663666" Name="CreateHandle" Variables="this;" ParamCnt="1" />
+<Method Token="100663667" Name="get_ActiveColor" Variables="this;ActiveColor;" ParamCnt="1" />
+<Method Token="100663668" Name="set_ActiveColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663669" Name="OnPaint" Variables="this;e;GP;PGB;$W0;V_3;i;Base;BaseSize;V_7;V_8;V_9;$W1;V_11;V_12;ex;V_14;V_15;ex;" ParamCnt="2" />
+<Field Token="67109046" Name="W" />
+<Field Token="67109047" Name="H" />
+<Field Token="67109048" Name="BaseColor" />
+<Field Token="67109049" Name="_ActiveColor" />
 <Type Token="33554464" Name="ck6.vars" />
-<Method Token="100663676" Name=".cctor" Variables="" ParamCnt="0" />
-<Field Token="67109051" Name="client_name" />
-<Field Token="67109052" Name="client" />
-<Field Token="67109053" Name="guard" />
-<Field Token="67109054" Name="killc" />
-<Field Token="67109055" Name="fsccts" />
+<Method Token="100663674" Name=".cctor" Variables="" ParamCnt="0" />
+<Field Token="67109050" Name="client_name" />
+<Field Token="67109051" Name="client" />
+<Field Token="67109052" Name="guard" />
+<Field Token="67109053" Name="killc" />
+<Field Token="67109054" Name="fsccts" />
 <Type Token="33554465" Name="ck6.My.MyProject/MyForms" />
-<Method Token="100663677" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663678" Name="Create__Instance__" Variables="Instance;Create__Instance__;V_1;V_2;V_3;ex;V_5;BetterMessage;" ParamCnt="1" />
-<Method Token="100663679" Name="Dispose__Instance__" Variables="this;instance;" ParamCnt="2" />
-<Method Token="100663680" Name="Equals" Variables="this;o;Equals;" ParamCnt="2" />
-<Method Token="100663681" Name="GetHashCode" Variables="this;GetHashCode;" ParamCnt="1" />
-<Method Token="100663682" Name="GetType" Variables="this;GetType;" ParamCnt="1" />
-<Method Token="100663683" Name="ToString" Variables="this;ToString;" ParamCnt="1" />
-<Method Token="100663684" Name="get_adv" Variables="this;" ParamCnt="1" />
-<Method Token="100663685" Name="get_Form1" Variables="this;" ParamCnt="1" />
-<Method Token="100663686" Name="set_adv" Variables="this;Value;" ParamCnt="2" />
-<Method Token="100663687" Name="set_Form1" Variables="this;Value;" ParamCnt="2" />
-<Field Token="67109056" Name="m_FormBeingCreated" />
-<Field Token="67109057" Name="m_adv" />
-<Field Token="67109058" Name="m_Form1" />
+<Method Token="100663675" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663676" Name="Create__Instance__" Variables="Instance;Create__Instance__;V_1;V_2;V_3;ex;V_5;BetterMessage;" ParamCnt="1" />
+<Method Token="100663677" Name="Dispose__Instance__" Variables="this;instance;" ParamCnt="2" />
+<Method Token="100663678" Name="Equals" Variables="this;o;Equals;" ParamCnt="2" />
+<Method Token="100663679" Name="GetHashCode" Variables="this;GetHashCode;" ParamCnt="1" />
+<Method Token="100663680" Name="GetType" Variables="this;GetType;" ParamCnt="1" />
+<Method Token="100663681" Name="ToString" Variables="this;ToString;" ParamCnt="1" />
+<Method Token="100663682" Name="get_adv" Variables="this;" ParamCnt="1" />
+<Method Token="100663683" Name="get_Form1" Variables="this;" ParamCnt="1" />
+<Method Token="100663684" Name="set_adv" Variables="this;Value;" ParamCnt="2" />
+<Method Token="100663685" Name="set_Form1" Variables="this;Value;" ParamCnt="2" />
+<Field Token="67109055" Name="m_FormBeingCreated" />
+<Field Token="67109056" Name="m_adv" />
+<Field Token="67109057" Name="m_Form1" />
 <Type Token="33554467" Name="ck6.My.MyProject/MyWebServices" />
-<Method Token="100663692" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663693" Name="Equals" Variables="this;o;Equals;" ParamCnt="2" />
-<Method Token="100663694" Name="GetHashCode" Variables="this;GetHashCode;" ParamCnt="1" />
-<Method Token="100663695" Name="GetType" Variables="this;GetType;" ParamCnt="1" />
-<Method Token="100663696" Name="ToString" Variables="this;ToString;" ParamCnt="1" />
-<Method Token="100663697" Name="Create__Instance__" Variables="instance;Create__Instance__;V_1;" ParamCnt="1" />
-<Method Token="100663698" Name="Dispose__Instance__" Variables="this;instance;" ParamCnt="2" />
+<Method Token="100663690" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663691" Name="Equals" Variables="this;o;Equals;" ParamCnt="2" />
+<Method Token="100663692" Name="GetHashCode" Variables="this;GetHashCode;" ParamCnt="1" />
+<Method Token="100663693" Name="GetType" Variables="this;GetType;" ParamCnt="1" />
+<Method Token="100663694" Name="ToString" Variables="this;ToString;" ParamCnt="1" />
+<Method Token="100663695" Name="Create__Instance__" Variables="instance;Create__Instance__;V_1;" ParamCnt="1" />
+<Method Token="100663696" Name="Dispose__Instance__" Variables="this;instance;" ParamCnt="2" />
 <Type Token="33554470" Name="ck6.My.MyProject/ThreadSafeObjectProvider`1" />
-<Method Token="100663707" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663708" Name="get_GetInstance" Variables="this;GetInstance;V_1;" ParamCnt="1" />
-<Field Token="67109059" Name="m_ThreadStaticValue" />
+<Method Token="100663705" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663706" Name="get_GetInstance" Variables="this;GetInstance;V_1;" ParamCnt="1" />
+<Field Token="67109058" Name="m_ThreadStaticValue" />
 <Type Token="33554472" Name="ck6.FlatToggle/CheckedChangedEventHandler" />
-<Method Token="100663713" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
-<Method Token="100663714" Name="BeginInvoke" Variables="this;sender;DelegateCallback;DelegateAsyncState;" ParamCnt="4" />
-<Method Token="100663715" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
-<Method Token="100663716" Name="Invoke" Variables="this;sender;" ParamCnt="2" />
+<Method Token="100663711" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663712" Name="BeginInvoke" Variables="this;sender;DelegateCallback;DelegateAsyncState;" ParamCnt="4" />
+<Method Token="100663713" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663714" Name="Invoke" Variables="this;sender;" ParamCnt="2" />
 <Type Token="33554474" Name="ck6.FlatToggle/_Options" />
-<Field Token="67109060" Name="value__" />
-<Field Token="67109061" Name="Style1" />
-<Field Token="67109062" Name="Style2" />
-<Field Token="67109063" Name="Style3" />
-<Field Token="67109064" Name="Style4" />
-<Field Token="67109065" Name="Style5" />
+<Field Token="67109059" Name="value__" />
+<Field Token="67109060" Name="Style1" />
+<Field Token="67109061" Name="Style2" />
+<Field Token="67109062" Name="Style3" />
+<Field Token="67109063" Name="Style4" />
+<Field Token="67109064" Name="Style5" />
 <Type Token="33554475" Name="ck6.FlatRadioButton/CheckedChangedEventHandler" />
-<Method Token="100663721" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
-<Method Token="100663722" Name="BeginInvoke" Variables="this;sender;DelegateCallback;DelegateAsyncState;" ParamCnt="4" />
-<Method Token="100663723" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
-<Method Token="100663724" Name="Invoke" Variables="this;sender;" ParamCnt="2" />
+<Method Token="100663719" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663720" Name="BeginInvoke" Variables="this;sender;DelegateCallback;DelegateAsyncState;" ParamCnt="4" />
+<Method Token="100663721" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663722" Name="Invoke" Variables="this;sender;" ParamCnt="2" />
 <Type Token="33554476" Name="ck6.FlatRadioButton/_Options" />
-<Field Token="67109066" Name="value__" />
-<Field Token="67109067" Name="Style1" />
-<Field Token="67109068" Name="Style2" />
+<Field Token="67109065" Name="value__" />
+<Field Token="67109066" Name="Style1" />
+<Field Token="67109067" Name="Style2" />
 <Type Token="33554477" Name="ck6.FlatCheckBox/CheckedChangedEventHandler" />
-<Method Token="100663725" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
-<Method Token="100663726" Name="BeginInvoke" Variables="this;sender;DelegateCallback;DelegateAsyncState;" ParamCnt="4" />
-<Method Token="100663727" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
-<Method Token="100663728" Name="Invoke" Variables="this;sender;" ParamCnt="2" />
+<Method Token="100663723" Name=".ctor" Variables="this;TargetObject;TargetMethod;" ParamCnt="3" />
+<Method Token="100663724" Name="BeginInvoke" Variables="this;sender;DelegateCallback;DelegateAsyncState;" ParamCnt="4" />
+<Method Token="100663725" Name="EndInvoke" Variables="this;DelegateAsyncResult;" ParamCnt="2" />
+<Method Token="100663726" Name="Invoke" Variables="this;sender;" ParamCnt="2" />
 <Type Token="33554478" Name="ck6.FlatCheckBox/_Options" />
-<Field Token="67109069" Name="value__" />
-<Field Token="67109070" Name="Style1" />
-<Field Token="67109071" Name="Style2" />
+<Field Token="67109068" Name="value__" />
+<Field Token="67109069" Name="Style1" />
+<Field Token="67109070" Name="Style2" />
 <Type Token="33554435" Name="A.AssemblyInfoAttribute" />
 <Method Token="100663301" Name="" Variables="this;str;" ParamCnt="2" />
 </Assembly><File OldName="" NewName="File0" />
