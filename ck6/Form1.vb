@@ -101,7 +101,6 @@ Public Class Form1
     End Sub
 
     Private Sub fun_Tick(sender As Object, e As EventArgs) Handles fun.Tick
-        Me.Label6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(a.Next(1, 255), Byte), Integer), CType(CType(a.Next(1, 255), Byte), Integer), CType(CType(a.Next(1, 255), Byte), Integer))
         Dim a1 As New Point()
         a1 = Me.Location
         Dim b As Integer = (a1.Y + 50)
@@ -117,7 +116,6 @@ Public Class Form1
             guard = TextBox2.Text
             FlatButton3.Text = "Manual"
             Me.Height = 337
-            PictureBox2.Location = New Point(450, 249)
             FlatButton1.Enabled = True
             FlatButton2.Enabled = True
             FlatButton4.Enabled = True
@@ -135,7 +133,6 @@ Public Class Form1
                 guard = TextBox2.Text
                 FlatButton3.Text = "Manual"
                 Me.Height = 337
-                PictureBox2.Location = New Point(450, 249)
                 FlatButton1.Enabled = True
                 FlatButton2.Enabled = True
                 FlatButton4.Enabled = True
@@ -149,14 +146,17 @@ Public Class Form1
     End Sub
 
     Private Sub dumppidpath()
+        Try
+            Dim lol = Process.GetProcessById(adv.TextBox2.Text)
+            MsgBox(lol.Modules(0).FileName)
 
-        Dim lol = Process.GetProcessById(5532)
-        MsgBox(lol.Modules(0).FileName)
-
-        Dim a123 As New ProcessStartInfo()
-        a123.FileName = "tasklist.exe"
-        a123.Arguments = "tasklist /fi ""imagename eq " + client + ".exe"""
-        MsgBox("tasklist /fi ""imagename eq " + client + ".exe""")
+            Dim a123 As New ProcessStartInfo()
+            a123.FileName = "tasklist.exe"
+            a123.Arguments = "tasklist /fi ""imagename eq " + client + ".exe"""
+            MsgBox("tasklist /fi ""imagename eq " + client + ".exe""")
+        Catch
+            MsgBox("Error! Fetching path cannot be determined!")
+        End Try
     End Sub
 
     Private Sub killahwestsideniggah_Tick(sender As Object, e As EventArgs) Handles killahwestsideniggah.Tick
@@ -217,7 +217,6 @@ Public Class Form1
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Me.Height = 337
-        PictureBox2.Location = New Point(450, 249)
         cons.Text = "Loading Windows Process 'taskkill.exe'..." + vbNewLine + cons.Text
         taskkillproc.FileName = "taskkill.exe"
         cons.Text = "Setting Process Window style to hidden..." + vbNewLine + cons.Text
@@ -306,10 +305,13 @@ Public Class Form1
                 adv.TextBox1.Text = 500
                 MsgBox("Error on setting interval value. Setting to Default value.")
             End Try
+
+            If adv.TextBox2.Text = "" Then Else Call dumppidpath()
+
         End If
     End Sub
 
-    Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
+    Private Sub PictureBox2_Click(sender As Object, e As EventArgs)
         cons.Text = "(/> w <)/ - NO!" + vbNewLine + cons.Text
         MsgBox("dont boop pls.")
     End Sub
@@ -319,7 +321,6 @@ Public Class Form1
         If Me.Height = 410 Then REM Check if Manual or cancel
             FlatButton3.Text = "Manual"
             Me.Height = 337
-            PictureBox2.Location = New Point(450, 249)
             FlatButton1.Enabled = True
             FlatButton2.Enabled = True
             FlatButton4.Enabled = True
@@ -327,7 +328,6 @@ Public Class Form1
         Else
             FlatButton3.Text = "Cancel"
             Me.Height = 410
-            PictureBox2.Location = New Point(450, 322)
             FlatButton1.Enabled = False
             FlatButton2.Enabled = False
             FlatButton4.Enabled = False
@@ -357,7 +357,7 @@ Public Class Form1
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        MsgBox("-It successfully scanned and killing attempt is already stacking high but it's still not dead! :: This is probably due to priviledges try running this with admin priviledges or if you manually added the client (especially when you used override) be sure you typed everything correct" + vbNewLine + "-i love you! :: love ya too :3" + vbNewLine + "-gay :: lmao." + vbNewLine + "-How can I know what to put in the 'Manual' thingy! :: You need to enter the Client's Image process name which you can find in task manager or tasklist. The guard is optional just leave it blank if it doesn't use process guards. also dont include the .exe at the end... aaannddd image names are the process names (Image Names) which in example is hndclient.exe.", MsgBoxStyle.Information, "omg mr fluff im having a problem!!!")
+        MsgBox("-It successfully scanned and killing attempt is already stacking high but it's still not dead! :: This is probably due to priviledges try running this with admin priviledges or if you manually added the client (especially when you used override) be sure you typed everything correct" + vbNewLine + "-How can I know what to put in the 'Manual' thingy! :: You need to enter the Client's Image process name which you can find in task manager or tasklist. The guard is optional just leave it blank if it doesn't use process guards. also dont include the .exe at the end... aaannddd image names are the process names (Image Names) which in example is hndclient.exe.", MsgBoxStyle.Information)
     End Sub
 
     Private Sub FlatButton6_Click(sender As Object, e As EventArgs) Handles FlatButton6.Click

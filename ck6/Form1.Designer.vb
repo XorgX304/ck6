@@ -27,6 +27,7 @@ Partial Class Form1
         Me.killahwestsideniggah = New System.Windows.Forms.Timer(Me.components)
         Me.fun = New System.Windows.Forms.Timer(Me.components)
         Me.FormSkin1 = New ck6.FormSkin()
+        Me.Panel2 = New System.Windows.Forms.Panel()
         Me.FlatButton6 = New ck6.FlatButton()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Panel1 = New System.Windows.Forms.Panel()
@@ -39,7 +40,6 @@ Partial Class Form1
         Me.Label7 = New System.Windows.Forms.Label()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.FlatButton4 = New ck6.FlatButton()
-        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.FlatButton3 = New ck6.FlatButton()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.cl_name = New System.Windows.Forms.Label()
@@ -56,10 +56,8 @@ Partial Class Form1
         Me.cons = New System.Windows.Forms.RichTextBox()
         Me.FlatClose1 = New ck6.FlatClose()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        Me.Label5 = New System.Windows.Forms.Label()
         Me.FormSkin1.SuspendLayout()
         Me.Panel1.SuspendLayout()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -77,6 +75,7 @@ Partial Class Form1
         Me.FormSkin1.BackColor = System.Drawing.Color.White
         Me.FormSkin1.BaseColor = System.Drawing.Color.FromArgb(CType(CType(60, Byte), Integer), CType(CType(70, Byte), Integer), CType(CType(73, Byte), Integer))
         Me.FormSkin1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(53, Byte), Integer), CType(CType(58, Byte), Integer), CType(CType(60, Byte), Integer))
+        Me.FormSkin1.Controls.Add(Me.Panel2)
         Me.FormSkin1.Controls.Add(Me.FlatButton6)
         Me.FormSkin1.Controls.Add(Me.Button1)
         Me.FormSkin1.Controls.Add(Me.Panel1)
@@ -88,7 +87,6 @@ Partial Class Form1
         Me.FormSkin1.Controls.Add(Me.Label7)
         Me.FormSkin1.Controls.Add(Me.TextBox1)
         Me.FormSkin1.Controls.Add(Me.FlatButton4)
-        Me.FormSkin1.Controls.Add(Me.PictureBox2)
         Me.FormSkin1.Controls.Add(Me.FlatButton3)
         Me.FormSkin1.Controls.Add(Me.Label6)
         Me.FormSkin1.Controls.Add(Me.cl_name)
@@ -104,7 +102,6 @@ Partial Class Form1
         Me.FormSkin1.Controls.Add(Me.GroupBox1)
         Me.FormSkin1.Controls.Add(Me.FlatClose1)
         Me.FormSkin1.Controls.Add(Me.PictureBox1)
-        Me.FormSkin1.Controls.Add(Me.Label5)
         Me.FormSkin1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.FormSkin1.FlatColor = System.Drawing.Color.FromArgb(CType(CType(35, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(109, Byte), Integer))
         Me.FormSkin1.Font = New System.Drawing.Font("Segoe UI", 12.0!)
@@ -115,7 +112,14 @@ Partial Class Form1
         Me.FormSkin1.Name = "FormSkin1"
         Me.FormSkin1.Size = New System.Drawing.Size(513, 410)
         Me.FormSkin1.TabIndex = 0
-        Me.FormSkin1.Text = "   fuckNET: Client Killer 6 | Developed by: TRAGENALPHA"
+        Me.FormSkin1.Text = "   fuckNET: Client Killer 6.2 | Developed by: TRAGENALPHA"
+        '
+        'Panel2
+        '
+        Me.Panel2.Location = New System.Drawing.Point(-30, 337)
+        Me.Panel2.Name = "Panel2"
+        Me.Panel2.Size = New System.Drawing.Size(568, 1)
+        Me.Panel2.TabIndex = 34
         '
         'FlatButton6
         '
@@ -136,7 +140,7 @@ Partial Class Form1
         Me.Button1.BackColor = System.Drawing.Color.Transparent
         Me.Button1.FlatAppearance.BorderSize = 0
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button1.Location = New System.Drawing.Point(408, 304)
+        Me.Button1.Location = New System.Drawing.Point(485, 218)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(25, 26)
         Me.Button1.TabIndex = 32
@@ -170,7 +174,7 @@ Partial Class Form1
         Me.FlatButton5.BaseColor = System.Drawing.Color.FromArgb(CType(CType(35, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(109, Byte), Integer))
         Me.FlatButton5.Cursor = System.Windows.Forms.Cursors.Hand
         Me.FlatButton5.Font = New System.Drawing.Font("Segoe UI", 12.0!)
-        Me.FlatButton5.Location = New System.Drawing.Point(35, 374)
+        Me.FlatButton5.Location = New System.Drawing.Point(59, 374)
         Me.FlatButton5.Name = "FlatButton5"
         Me.FlatButton5.Rounded = False
         Me.FlatButton5.Size = New System.Drawing.Size(399, 32)
@@ -182,7 +186,7 @@ Partial Class Form1
         '
         Me.Label9.AutoSize = True
         Me.Label9.BackColor = System.Drawing.Color.Transparent
-        Me.Label9.Location = New System.Drawing.Point(398, 344)
+        Me.Label9.Location = New System.Drawing.Point(422, 344)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(36, 21)
         Me.Label9.TabIndex = 24
@@ -192,7 +196,7 @@ Partial Class Form1
         '
         Me.Label10.AutoSize = True
         Me.Label10.BackColor = System.Drawing.Color.Transparent
-        Me.Label10.Location = New System.Drawing.Point(236, 344)
+        Me.Label10.Location = New System.Drawing.Point(260, 344)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(56, 21)
         Me.Label10.TabIndex = 23
@@ -200,7 +204,7 @@ Partial Class Form1
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(298, 341)
+        Me.TextBox2.Location = New System.Drawing.Point(322, 341)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(100, 29)
         Me.TextBox2.TabIndex = 22
@@ -209,7 +213,7 @@ Partial Class Form1
         '
         Me.Label8.AutoSize = True
         Me.Label8.BackColor = System.Drawing.Color.Transparent
-        Me.Label8.Location = New System.Drawing.Point(190, 344)
+        Me.Label8.Location = New System.Drawing.Point(214, 344)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(36, 21)
         Me.Label8.TabIndex = 21
@@ -219,7 +223,7 @@ Partial Class Form1
         '
         Me.Label7.AutoSize = True
         Me.Label7.BackColor = System.Drawing.Color.Transparent
-        Me.Label7.Location = New System.Drawing.Point(31, 344)
+        Me.Label7.Location = New System.Drawing.Point(55, 344)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(53, 21)
         Me.Label7.TabIndex = 20
@@ -227,7 +231,7 @@ Partial Class Form1
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(90, 341)
+        Me.TextBox1.Location = New System.Drawing.Point(114, 341)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(100, 29)
         Me.TextBox1.TabIndex = 19
@@ -238,7 +242,7 @@ Partial Class Form1
         Me.FlatButton4.BaseColor = System.Drawing.Color.FromArgb(CType(CType(35, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(109, Byte), Integer))
         Me.FlatButton4.Cursor = System.Windows.Forms.Cursors.Hand
         Me.FlatButton4.Font = New System.Drawing.Font("Segoe UI", 12.0!)
-        Me.FlatButton4.Location = New System.Drawing.Point(308, 303)
+        Me.FlatButton4.Location = New System.Drawing.Point(363, 303)
         Me.FlatButton4.Name = "FlatButton4"
         Me.FlatButton4.Rounded = False
         Me.FlatButton4.Size = New System.Drawing.Size(94, 32)
@@ -246,24 +250,13 @@ Partial Class Form1
         Me.FlatButton4.Text = "Advance ▶"
         Me.FlatButton4.TextColor = System.Drawing.Color.FromArgb(CType(CType(243, Byte), Integer), CType(CType(243, Byte), Integer), CType(CType(243, Byte), Integer))
         '
-        'PictureBox2
-        '
-        Me.PictureBox2.BackColor = System.Drawing.Color.FromArgb(CType(CType(60, Byte), Integer), CType(CType(70, Byte), Integer), CType(CType(73, Byte), Integer))
-        Me.PictureBox2.Image = CType(resources.GetObject("PictureBox2.Image"), System.Drawing.Image)
-        Me.PictureBox2.Location = New System.Drawing.Point(450, 322)
-        Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(100, 99)
-        Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox2.TabIndex = 17
-        Me.PictureBox2.TabStop = False
-        '
         'FlatButton3
         '
         Me.FlatButton3.BackColor = System.Drawing.Color.Transparent
         Me.FlatButton3.BaseColor = System.Drawing.Color.FromArgb(CType(CType(35, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(109, Byte), Integer))
         Me.FlatButton3.Cursor = System.Windows.Forms.Cursors.Hand
         Me.FlatButton3.Font = New System.Drawing.Font("Segoe UI", 12.0!)
-        Me.FlatButton3.Location = New System.Drawing.Point(208, 303)
+        Me.FlatButton3.Location = New System.Drawing.Point(263, 303)
         Me.FlatButton3.Name = "FlatButton3"
         Me.FlatButton3.Rounded = False
         Me.FlatButton3.Size = New System.Drawing.Size(94, 32)
@@ -374,7 +367,7 @@ Partial Class Form1
         Me.FlatButton2.BaseColor = System.Drawing.Color.FromArgb(CType(CType(35, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(109, Byte), Integer))
         Me.FlatButton2.Cursor = System.Windows.Forms.Cursors.Hand
         Me.FlatButton2.Font = New System.Drawing.Font("Segoe UI", 12.0!)
-        Me.FlatButton2.Location = New System.Drawing.Point(8, 303)
+        Me.FlatButton2.Location = New System.Drawing.Point(63, 303)
         Me.FlatButton2.Name = "FlatButton2"
         Me.FlatButton2.Rounded = False
         Me.FlatButton2.Size = New System.Drawing.Size(94, 32)
@@ -388,7 +381,7 @@ Partial Class Form1
         Me.FlatButton1.BaseColor = System.Drawing.Color.FromArgb(CType(CType(35, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(109, Byte), Integer))
         Me.FlatButton1.Cursor = System.Windows.Forms.Cursors.Hand
         Me.FlatButton1.Font = New System.Drawing.Font("Segoe UI", 12.0!)
-        Me.FlatButton1.Location = New System.Drawing.Point(108, 303)
+        Me.FlatButton1.Location = New System.Drawing.Point(163, 303)
         Me.FlatButton1.Name = "FlatButton1"
         Me.FlatButton1.Rounded = False
         Me.FlatButton1.Size = New System.Drawing.Size(94, 32)
@@ -442,17 +435,6 @@ Partial Class Form1
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.BackColor = System.Drawing.Color.Transparent
-        Me.Label5.ForeColor = System.Drawing.Color.White
-        Me.Label5.Location = New System.Drawing.Point(-5, 326)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(490, 21)
-        Me.Label5.TabIndex = 27
-        Me.Label5.Text = "────────────────────────────────────────────────────────────"
-        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -471,7 +453,6 @@ Partial Class Form1
         Me.FormSkin1.PerformLayout()
         Me.Panel1.ResumeLayout(False)
         Me.Panel1.PerformLayout()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox1.ResumeLayout(False)
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
@@ -496,7 +477,6 @@ Partial Class Form1
     Friend WithEvents Label6 As Label
     Friend WithEvents FlatButton3 As FlatButton
     Friend WithEvents FlatButton4 As FlatButton
-    Friend WithEvents PictureBox2 As PictureBox
     Friend WithEvents Label7 As Label
     Friend WithEvents TextBox1 As TextBox
     Friend WithEvents Label9 As Label
@@ -504,11 +484,11 @@ Partial Class Form1
     Friend WithEvents TextBox2 As TextBox
     Friend WithEvents Label8 As Label
     Friend WithEvents FlatButton5 As FlatButton
-    Friend WithEvents Label5 As Label
     Friend WithEvents Panel1 As Panel
     Friend WithEvents status As Label
     Friend WithEvents killahwestsideniggah As Timer
     Friend WithEvents Button1 As Button
     Friend WithEvents fun As Timer
     Friend WithEvents FlatButton6 As FlatButton
+    Friend WithEvents Panel2 As Panel
 End Class
