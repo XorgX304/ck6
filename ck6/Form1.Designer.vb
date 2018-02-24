@@ -112,7 +112,7 @@ Partial Class Form1
         Me.FormSkin1.Name = "FormSkin1"
         Me.FormSkin1.Size = New System.Drawing.Size(513, 410)
         Me.FormSkin1.TabIndex = 0
-        Me.FormSkin1.Text = "   fuckNET: Client Killer 6.2 | Developed by: TRAGENALPHA"
+        Me.FormSkin1.Text = "   Client Killer 6.3 | Developed by: TRAGENALPHA"
         '
         'Panel2
         '

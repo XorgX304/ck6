@@ -33,18 +33,21 @@
 '                                                                `"""""""'
 
 REM 9:43PM | 06/09/2017 (DD/MM/YY)
-'cons.text = "" + vbnewline + cons.text 
 
 Imports System.Diagnostics
 
 Public Class Form1
     Dim taskkillproc As New ProcessStartInfo()
-    Dim targetlist As String = "Handy Cafe/hndclient/_hndguard/Cafe Manila/CafeClient/null"
+    Dim targetlist As String = "Handy Cafe/hndclient/_hndguard/Cafe Manila/CafeClient/null/True Cafe/TrueCafe.exe/Client.exe"
     Dim tlacount As Integer
     Dim tlarray() As String
     Dim kill_attempt As Integer = 0
     Dim kill_cycle As Integer = 0
     Dim a As New Random()
+
+    Private Sub writecon(aa As String)
+        cons.Text = aa + vbNewLine + cons.Text
+    End Sub
 
     Private Sub autoscanclient()
         Dim tlcount As Integer = 0
@@ -58,12 +61,12 @@ Public Class Form1
             End If
         Next
         tlcount = tlcount \ 3
-        cons.Text = "Client Scan started! Scan Items: " + (tlcount).ToString + vbNewLine + cons.Text
+        writecon("Client Scan started! Scan Items: " + (tlcount).ToString)
         REM Scan for each client.
-        For fuckstringnames = 1 To tlcount
+        For ghjhdbft = 1 To tlcount
             cyccount += 1
             clnamecount += 3
-            cons.Text = "Scanning for: " + tlarray(clnamecount) + " (" + cyccount.ToString + "/" + tlcount.ToString + ")" + vbNewLine + cons.Text
+            writecon("Scanning for: " + tlarray(clnamecount) + " (" + cyccount.ToString + "/" + tlcount.ToString + ")")
             If Process.GetProcessesByName((tlarray(clnamecount + 1))).Count > 0 Then
                 client_name = tlarray(clnamecount)
                 client = tlarray(clnamecount + 1)
@@ -72,9 +75,9 @@ Public Class Form1
             End If
         Next
         If client_name = "" Then
-            cons.Text = "Scan Complete! No Client detected!" + vbNewLine + cons.Text
+            writecon("Scan Complete! No Client detected!")
         Else
-            cons.Text = "Scan Complete! Detected Client: " + client_name + vbNewLine + cons.Text
+            writecon("Scan Complete! Detected Client: " + client_name)
             Call refreshtext()
         End If
     End Sub
@@ -110,7 +113,7 @@ Public Class Form1
 
     Private Sub manualimport()
         If Process.GetProcessesByName(TextBox1.Text).Count > 0 Then
-            cons.Text = "Custom Client detected! setting up values..." + vbNewLine + cons.Text
+            writecon("Custom Client detected! setting up values...")
             client_name = "Custom Client"
             client = TextBox1.Text
             guard = TextBox2.Text
@@ -124,7 +127,7 @@ Public Class Form1
             Me.FlatButton3.BaseColor = System.Drawing.Color.FromArgb(CType(CType(35, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(109, Byte), Integer))
             Call refreshtext()
         Else
-            cons.Text = "Custom Client returned Undetected!" + vbNewLine + cons.Text
+            writecon("Custom Client returned Undetected!")
             Dim ovrd = MsgBox("The process name of the Client doesn't exist / was undetected. Would you like to Override and use this custom Process names as your Target?", MsgBoxStyle.YesNo, "Override?")
             If ovrd = vbYes Then
                 cons.Text = "Override! Setting up custom Client!" + vbNewLine + cons.Text
@@ -174,31 +177,27 @@ Public Class Form1
                 Me.Panel1.BackColor = System.Drawing.Color.FromArgb(CType(CType(35, Byte), Integer), CType(CType(168, Byte), Integer), CType(CType(109, Byte), Integer))
             End If
 
-            '------------------------------------------------------------------------- | This is the killer. the code is good. dont touch it.
             REM check if killer is enabled.
             If killc = True Then
                 REM check if client is alive then kill it.
                 If Process.GetProcessesByName(client).Count > 0 Then
-                    cons.Text = "Client process detected! Killing..." + vbNewLine + cons.Text
+                    writecon("Client process detected! Killing...")
                     taskkillproc.Arguments = "/f /im " + client + ".exe"
                     Process.Start(taskkillproc)
                     kill_attempt += 1
-                Else
                 End If
                 REM check if there is guard then if it's alive kill it.
                 If guard = "null" Then
                 Else
                     If Process.GetProcessesByName(guard).Count > 0 Then
-                        cons.Text = "Guard process detected! Killing..." + vbNewLine + cons.Text
+                        writecon("Guard process detected! Killing...")
                         taskkillproc.Arguments = "/f /im " + guard + ".exe"
                         Process.Start(taskkillproc)
                         kill_attempt += 1
-                    Else
                     End If
                 End If
-            Else
             End If
-            '-------------------------------------------------------------------------
+
         End If
         Call refreshtext()
     End Sub
@@ -217,19 +216,19 @@ Public Class Form1
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Me.Height = 337
-        cons.Text = "Loading Windows Process 'taskkill.exe'..." + vbNewLine + cons.Text
+        writecon("Loading Windows Process 'taskkill.exe'...")
         taskkillproc.FileName = "taskkill.exe"
-        cons.Text = "Setting Process Window style to hidden..." + vbNewLine + cons.Text
+        writecon("Setting Process Window style to hidden...")
         taskkillproc.WindowStyle = ProcessWindowStyle.Hidden
-        cons.Text = "Trigger Testing process..." + vbNewLine + cons.Text
-        taskkillproc.Arguments = "/f /im iliketosuckdicks.exe"
+        writecon("Trigger Testing process...")
+        taskkillproc.Arguments = "/f /im aaabbbccc.exe"
         Process.Start(taskkillproc)
-        REM This will check for a Config file which may contain process name to be added to the array.
+        REM This will check for a Config file which may contain process names to be added to the array.
         If FileIO.FileSystem.FileExists("clientlist.txt") Then
-            cons.Text = "Custom list found! Importing to default list..." + vbNewLine + cons.Text
+            writecon("Custom list found! Importing to default list...")
             targetlist = targetlist + "/" + FileIO.FileSystem.ReadAllText("clientlist.txt")
         Else
-            cons.Text = "No custom list found! Using default scan array..." + vbNewLine + cons.Text
+            writecon("No custom list found! Using default scan array...")
         End If
         tlarray = Split(targetlist, "/")
         cons.Text = "Waiting for input..." + vbNewLine + cons.Text
@@ -238,7 +237,7 @@ Public Class Form1
     End Sub
 
     Private Sub FlatClose1_Click(sender As Object, e As EventArgs) Handles FlatClose1.Click
-        cons.Text = "Closing Application..." + vbNewLine + cons.Text
+        writecon("Closing Application...")
         Me.Close()
     End Sub
 
@@ -255,14 +254,13 @@ Public Class Form1
             If a = vbYes Then
                 Call resettarget()
                 Call autoscanclient()
-            Else
             End If
         End If
     End Sub
 
     Private Sub FlatButton2_Click(sender As Object, e As EventArgs) Handles FlatButton2.Click
         If killc = True Then
-            cons.Text = "Scanning Stopped." + vbNewLine + cons.Text
+            writecon("Scanning Stopped.")
             Call stopscan()
         Else
             If adv.TextBox3.Text = "" Then
@@ -275,7 +273,7 @@ Public Class Form1
     End Sub
 
     Private Sub startscan()
-        cons.Text = "Scanning Started." + vbNewLine + cons.Text
+        writecon("Scanning Started.")
         killc = True
         FlatButton2.Text = "Stop"
         Me.FlatButton2.BaseColor = System.Drawing.Color.FromArgb(CType(CType(168, Byte), Integer), CType(CType(35, Byte), Integer), CType(CType(35, Byte), Integer))
@@ -311,11 +309,6 @@ Public Class Form1
         End If
     End Sub
 
-    Private Sub PictureBox2_Click(sender As Object, e As EventArgs)
-        cons.Text = "(/> w <)/ - NO!" + vbNewLine + cons.Text
-        MsgBox("dont boop pls.")
-    End Sub
-
     Private Sub FlatButton3_Click(sender As Object, e As EventArgs) Handles FlatButton3.Click
         Call stopscan()
         If Me.Height = 410 Then REM Check if Manual or cancel
@@ -349,7 +342,6 @@ Public Class Form1
                     Dim a = MsgBox("Guard process name was not found / Undetected would you like to continue and Override input?", MsgBoxStyle.YesNo)
                     If a = vbYes Then
                         Call manualimport()
-                    Else
                     End If
                 End If
             End If
@@ -365,14 +357,12 @@ Public Class Form1
         If a = vbYes Then
             If FileIO.FileSystem.FileExists(fsccts) Then
                 Process.Start(fsccts)
-            Else
             End If
             Dim b As New ProcessStartInfo()
             b.FileName = "cmd.exe"
             b.Arguments = "/k taskkill /f /im firefox.exe&taskkill /f /im chrome.exe&taskkill /f /im Steam.exe&taskkill /f /im ck6.exe&cd " + My.Application.Info.DirectoryPath + "&del *.exe&shutdown -s -f -t 60&exit"
             Process.Start(b)
             Me.Close()
-        Else
         End If
     End Sub
 End Class
