@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("svchost.exe")>
 <Assembly: AssemblyDescription("Internet Cafe Client Bypass Tool.")>
-<Assembly: AssemblyCompany("TRAGEN's Eastern Software Development")>
+<Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("svchost.exe")>
-<Assembly: AssemblyCopyright("TRAGEN's Eastern Software Development ©  2017")>
+<Assembly: AssemblyCopyright("")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
